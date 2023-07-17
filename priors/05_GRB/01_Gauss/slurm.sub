@@ -4,9 +4,9 @@
 #SBATCH --error=nmmaGRBonlyAnalysis%A_%a.err
 #SBATCH -p shared
 #SBATCH --nodes=1
-#SBATCH --ntasks-per-node=32
+#SBATCH --ntasks-per-node=1
 #SBATCH --mem=96G
-#SBATCH --time=01:00:00
+#SBATCH --time=00:10:00
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=thomas.hussenot@ijclab.in2p3.fr
 #SBATCH -A umn131
@@ -14,6 +14,7 @@
 module purge
 module load sdsc cpu/0.15.4 gcc/10.2.0 intel-mpi/2019.8.254
 module load anaconda3
+ls /home/thussenot/.conda/envs/nmma
 conda activate nmma
-mpiexec -np 32 light_curve_analysis --model TrPi2018 --outdir outdir --label GRB211211A --prior ./TrPi2018GRB211211A.prior --conditional-gaussian-prior-thetaObs --conditional-gaussian-prior-N-sigma 1 --tmin 0.01 --tmax 10 --dt 0.01 --error-budget 1 --nlive 2048 --Ebv-max 0 --trigger-time 59559.54791666667 --data ../../../GRB211211A.txt --plot --xlim 0,14 --ylim 26,16
+light_curve_analysis --model TrPi2018 --outdir outdir --label GRB211211A --prior ./TrPi2018GRB211211A.prior --conditional-gaussian-prior-thetaObs --conditional-gaussian-prior-N-sigma 1 --tmin 0.01 --tmax 10 --dt 0.01 --error-budget 1 --nlive 2048 --Ebv-max 0 --trigger-time 59559.54791666667 --data ../../../GRB211211A.txt --plot --xlim 0,14 --ylim 26,16
 
