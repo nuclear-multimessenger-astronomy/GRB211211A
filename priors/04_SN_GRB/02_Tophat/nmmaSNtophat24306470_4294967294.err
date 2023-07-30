@@ -1,0 +1,1221 @@
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Running for label 'GRB211211A', output will be saved to 'outdirSNtophat32cores'
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : Analysis priors:
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : supernova_mag_boost=Uniform(minimum=0, maximum=60, name='supernova_mag_boost', latex_label='$mag$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : inclination_EM=nmma.em.prior.ConditionalGaussianIotaGivenThetaCore(minimum=0.0, maximum=0.7853981633974483, name='inclination_EM', N_sigma=1.0, latex_label='$\\iota$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : luminosity_distance=Uniform(minimum=0, maximum=3000, name='luminosity_distance', latex_label='$D_L$', unit=None, boundary=None)
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_E0=Uniform(minimum=47.0, maximum=55.0, name='log10_E0', latex_label='$\\log_{10}E_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : thetaCore=Uniform(minimum=0.01, maximum=0.3141592653589793, name='theta_core', latex_label='$\\theta_c$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_n0=Uniform(minimum=-6, maximum=2.0, name='log10_n0', latex_label='$\\log_{10}n_0$', unit=None, boundary='reflective')
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : p=Uniform(minimum=2.01, maximum=3.0, name='p', latex_label='$p$', unit=None, boundary=None)
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : log10_epsilon_e=Uniform(minimum=-5, maximum=0, name='log10_epsilon_e', latex_label='$\\log_{10}\\epsilon_e$', unit=None, boundary='reflective')
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:44 bilby INFO    : log10_epsilon_B=Uniform(minimum=-10, maximum=0, name='log10_epsilon_B', latex_label='$\\log_{10}\\epsilon_B$', unit=None, boundary='reflective')
+02:44 bilby INFO    : KNtimeshift=0.0
+02:44 bilby INFO    : Ebv=0.0
+02:44 bilby INFO    : Analysis likelihood class: <class 'nmma.em.likelihood.OpticalLightCurve'>
+02:44 bilby INFO    : Analysis likelihood noise evidence: 0.0
+02:47 bilby INFO    : Single likelihood evaluation took 1.355e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x15553fbf7160>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.392e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555042ef2b0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.417e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.408e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.404e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555047d6f10>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e9130>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e7280>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.453e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e46a0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.472e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e4f40>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.483e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.485e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e7250>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e8130>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.500e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.495e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e65b0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e8190>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.515e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.513e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.538e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.541e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.541e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e35b0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.548e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.525e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.554e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.544e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.547e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555042f21f0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e29a0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e3760>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555554004c0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.553e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e1970>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555082ef1f0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e3760>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e91c0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e91f0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.566e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.553e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555554065b0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e3580>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.570e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e2670>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e9100>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.614e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e2580>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.587e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e48b0>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.638e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.656e+00 s
+02:47 bilby INFO    : Single likelihood evaluation took 1.632e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555042ef280>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085e7100>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e9100>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.670e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555045e2970>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+02:47 bilby INFO    : Single likelihood evaluation took 1.731e+00 s
+02:47 bilby WARNING : Supplied argument 'queue_size' not an argument of 'Pymultinest', removing.
+02:47 bilby WARNING : Supplied argument 'check_point_delta_t' not an argument of 'Pymultinest', removing.
+02:47 bilby INFO    : Using sampler Pymultinest with kwargs {'importance_nested_sampling': False, 'resume': True, 'verbose': True, 'sampling_efficiency': 'parameter', 'n_live_points': 2048, 'n_params': 9, 'n_clustering_params': None, 'wrapped_params': None, 'multimodal': True, 'const_efficiency_mode': False, 'evidence_tolerance': 0.5, 'n_iter_before_update': 100, 'null_log_evidence': -1e+90, 'max_modes': 100, 'mode_tolerance': -1e+90, 'seed': 42, 'context': 0, 'write_output': True, 'log_zero': -1e+100, 'max_iter': 0, 'init_MPI': False, 'dump_callback': <bound method Pymultinest._dump_callback of <bilby.core.sampler.pymultinest.Pymultinest object at 0x1555085ea190>>}
+02:47 bilby INFO    : Temporary directory incompatible with MPI, will run in original directory
+02:47 bilby INFO    : Using output file outdirSNtophat32cores/pm_GRB211211A/
+07:01 bilby INFO    : Sampling time: 4:14:19.711308
+07:01 bilby INFO    : Sampling time: 4:14:12.456481
+07:01 bilby INFO    : Sampling time: 4:14:08.729890
+07:01 bilby INFO    : Sampling time: 4:13:59.392888
+07:01 bilby INFO    : Sampling time: 4:13:49.178778
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby INFO    : Sampling time: 4:14:06.990538
+07:01 bilby INFO    : Sampling time: 4:14:03.319689
+07:01 bilby INFO    : Sampling time: 4:13:48.280582
+07:01 bilby INFO    : Sampling time: 4:14:12.798247
+07:01 bilby INFO    : Sampling time: 4:13:56.858487
+07:01 bilby INFO    : Sampling time: 4:13:44.422553
+07:01 bilby INFO    : Sampling time: 4:14:05.263187
+07:01 bilby INFO    : Sampling time: 4:13:55.172032
+07:01 bilby INFO    : Sampling time: 4:13:59.048056
+07:01 bilby INFO    : Sampling time: 4:13:55.798773
+07:01 bilby INFO    : Sampling time: 4:14:05.307288
+07:01 bilby INFO    : Sampling time: 4:13:51.963032
+07:01 bilby INFO    : Sampling time: 4:13:39.467938
+07:01 bilby INFO    : Sampling time: 4:13:53.678156
+07:01 bilby INFO    : Sampling time: 4:14:01.082135
+07:01 bilby INFO    : Sampling time: 4:13:59.925700
+07:01 bilby INFO    : Sampling time: 4:13:59.366673
+07:01 bilby INFO    : Sampling time: 4:13:58.839970
+07:01 bilby INFO    : Sampling time: 4:14:15.142815
+07:01 bilby INFO    : Sampling time: 4:14:04.093961
+07:01 bilby INFO    : Sampling time: 4:13:57.070669
+07:01 bilby INFO    : Sampling time: 4:13:57.656631
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 435, in copy2
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 264, in copyfile
+    with open(src, 'rb') as fsrc, open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby INFO    : Sampling time: 4:13:58.607530
+07:01 bilby INFO    : Sampling time: 4:14:11.327260
+07:01 bilby INFO    : Sampling time: 4:13:59.364364
+07:01 bilby INFO    : Sampling time: 4:13:58.340930
+07:01 bilby INFO    : Sampling time: 4:13:49.704391
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 811, in move
+    copy_function(src, real_dst)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 436, in copy2
+    copystat(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 379, in copystat
+    _copyxattr(src, dst, follow_symlinks=follow)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 321, in _copyxattr
+    names = os.listxattr(src, follow_symlinks=follow_symlinks)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 812, in move
+    os.unlink(src)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 812, in move
+    os.unlink(src)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby ERROR   : 
+
+Saving the data has failed with the following message:
+[Errno 116] Stale file handle
+Data has been dumped to outdirSNtophat32cores/GRB211211A_result.pkl.
+
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 812, in move
+    os.unlink(src)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 791, in move
+    os.rename(src, real_dst)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json' -> 'outdirSNtophat32cores/GRB211211A_result.json.old'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 262, in run_sampler
+    result.save_to_file(extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 408, in move_old_file
+    shutil.move(filename, filename + ".old")
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/shutil.py", line 812, in move
+    os.unlink(src)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+Traceback (most recent call last):
+  File "/home/thussenot/.conda/envs/multinest/bin/light_curve_analysis", line 8, in <module>
+    sys.exit(main())
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py", line 622, in main
+    result = bilby.run_sampler(
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/sampler/__init__.py", line 278, in run_sampler
+    result.save_to_file(overwrite=True, extension=save, gzip=gzip, outdir=outdir)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/result.py", line 773, in save_to_file
+    move_old_file(filename, overwrite)
+  File "/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/bilby/core/utils/io.py", line 403, in move_old_file
+    os.remove(filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'outdirSNtophat32cores/GRB211211A_result.json'
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+07:01 bilby INFO    : Summary of results:
+nsamples: 12952
+ln_noise_evidence:  0.000
+ln_evidence: -115.322 +/-  0.076
+ln_bayes_factor: -115.322 +/-  0.076
+
+07:01 bilby INFO    : Writing samples file to /home/thussenot/GRB211211A/priors/04_SN_GRB/02_Tophat/outdirSNtophat32cores/GRB211211A_posterior_samples.dat
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/matplotlib/axes/_base.py:2503: UserWarning: Warning: converting a masked element to nan.
+  xys = np.asarray(xys)
+/home/thussenot/.conda/envs/multinest/lib/python3.8/site-packages/nmma/em/analysis.py:859: UserWarning: Tight layout not applied. tight_layout cannot make axes height small enough to accommodate all axes decorations.
+  plt.tight_layout()
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[6182,1],11]
+  Exit code:    1
+--------------------------------------------------------------------------

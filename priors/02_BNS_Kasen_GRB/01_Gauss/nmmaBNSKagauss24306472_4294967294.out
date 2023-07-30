@@ -1,0 +1,4105 @@
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'ps1__g', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__v
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter uvot__v
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter uvot__b
+Loaded filter besselli
+Loaded filter uvot__u
+Loaded filter ps1__z
+Loaded filter uvot__uvw1
+Loaded filter 2massh
+Loaded filter uvot__uvm2
+Loaded filter 2massj
+Loaded filter uvot__uvw2
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Loaded filter uvot__white
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__g
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter uvot__v
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__v
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__b
+Loaded filter uvot__white
+Loaded filter uvot__u
+Loaded filter ps1__g
+Loaded filter uvot__uvw1
+Loaded filter ps1__r
+Loaded filter uvot__uvm2
+Loaded filter bessellr
+Loaded filter uvot__uvw2
+Loaded filter ps1__i
+Loaded filter uvot__white
+Loaded filter besselli
+Loaded filter ps1__g
+Loaded filter ps1__z
+Loaded filter ps1__r
+Loaded filter uvot__b
+Loaded filter 2massh
+Loaded filter bessellr
+Loaded filter uvot__u
+Loaded filter 2massj
+Loaded filter ps1__i
+Loaded filter uvot__uvw1
+Loaded filter 2massks
+Loaded filter besselli
+Loaded filter uvot__uvm2
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter ps1__z
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__uvw2
+Loaded filter 2massh
+Loaded filter uvot__white
+Loaded filter 2massj
+Loaded filter ps1__g
+Loaded filter 2massks
+Loaded filter ps1__r
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter uvot__v
+Loaded filter bessellr
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter uvot__v
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__uvm2
+Loaded filter uvot__u
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw1
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter uvot__uvm2
+Loaded filter ps1__r
+Loaded filter uvot__uvw2
+Loaded filter bessellr
+Loaded filter uvot__white
+Loaded filter ps1__i
+Loaded filter ps1__g
+Loaded filter besselli
+Loaded filter ps1__r
+Loaded filter ps1__z
+Loaded filter bessellr
+Loaded filter 2massh
+Loaded filter ps1__i
+Loaded filter 2massj
+Loaded filter besselli
+Loaded filter uvot__v
+Loaded filter 2massks
+Loaded filter ps1__z
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massh
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter uvot__b
+Loaded filter bessellr
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter ps1__i
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__uvw1
+Loaded filter uvot__u
+Loaded filter besselli
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter ps1__z
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter 2massh
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__white
+Loaded filter 2massj
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter ps1__g
+Loaded filter 2massks
+Loaded filter uvot__white
+Loaded filter uvot__v
+Loaded filter uvot__white
+Loaded filter ps1__r
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter ps1__g
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__g
+Loaded filter bessellr
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__i
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter besselli
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__z
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter uvot__b
+Loaded filter 2massh
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter uvot__u
+Loaded filter 2massj
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter uvot__uvw1
+Loaded filter 2massks
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter uvot__uvm2
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massks
+Loaded filter 2massks
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__uvw2
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter uvot__b
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__white
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter ps1__g
+Loaded filter uvot__uvw1
+Loaded filter uvot__u
+Loaded filter ps1__r
+Loaded filter uvot__v
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter bessellr
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter ps1__i
+Loaded filter uvot__uvm2
+Loaded filter uvot__white
+Loaded filter besselli
+Loaded filter uvot__uvw2
+Loaded filter ps1__g
+Loaded filter ps1__z
+Loaded filter uvot__white
+Loaded filter ps1__r
+Loaded filter 2massh
+Loaded filter ps1__g
+Loaded filter bessellr
+Loaded filter 2massj
+Loaded filter ps1__r
+Loaded filter ps1__i
+Loaded filter bessellr
+Loaded filter 2massks
+Loaded filter besselli
+Loaded filter ps1__i
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__z
+Loaded filter besselli
+Loaded filter 2massh
+Loaded filter ps1__z
+Loaded filter uvot__b
+Loaded filter 2massj
+Loaded filter 2massh
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter 2massks
+Loaded filter 2massj
+Loaded filter uvot__uvw1
+Loaded filter uvot__u
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massks
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__uvw1
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter uvot__uvm2
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter uvot__v
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massks
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter uvot__b
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter uvot__u
+Loaded filter ps1__z
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter 2massh
+Loaded filter uvot__uvm2
+Loaded filter uvot__u
+Loaded filter 2massj
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw1
+Loaded filter 2massks
+Loaded filter uvot__white
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter uvot__uvm2
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__g
+Loaded filter uvot__uvw2
+Loaded filter ps1__r
+Loaded filter uvot__white
+Loaded filter bessellr
+Loaded filter ps1__g
+Loaded filter ps1__i
+Loaded filter ps1__r
+Loaded filter besselli
+Loaded filter bessellr
+Loaded filter ps1__z
+Loaded filter ps1__i
+Loaded filter 2massh
+Loaded filter besselli
+Loaded filter 2massj
+Loaded filter ps1__z
+Loaded filter 2massks
+Loaded filter 2massh
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massj
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter uvot__b
+Loaded filter ps1__i
+Loaded filter uvot__u
+Loaded filter besselli
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter ps1__z
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvm2
+Loaded filter 2massh
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw1
+Loaded filter 2massj
+Loaded filter uvot__uvm2
+Loaded filter uvot__white
+Loaded filter 2massks
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvm2
+Loaded filter ps1__g
+Loaded filter uvot__white
+Loaded filter uvot__uvw2
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter ps1__r
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter ps1__g
+Loaded filter uvot__white
+Loaded filter bessellr
+Loaded filter ps1__r
+Loaded filter ps1__g
+Loaded filter ps1__i
+Loaded filter bessellr
+Loaded filter ps1__r
+Loaded filter besselli
+Loaded filter ps1__i
+Loaded filter bessellr
+Loaded filter ps1__z
+Loaded filter besselli
+Loaded filter ps1__i
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter besselli
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter ps1__z
+Loaded filter 2massj
+Loaded filter 2massks
+Loaded filter 2massh
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massj
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter 2massks
+Running with the following additional sampler_kwargs:
+{}
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__b
+Loaded filter uvot__uvw2
+Loaded filter uvot__u
+Loaded filter uvot__white
+Loaded filter uvot__uvw1
+Loaded filter ps1__g
+Loaded filter uvot__uvm2
+Loaded filter ps1__r
+Loaded filter uvot__uvw2
+Loaded filter bessellr
+Loaded filter uvot__white
+Loaded filter ps1__i
+Loaded filter ps1__g
+Loaded filter besselli
+Loaded filter ps1__r
+Loaded filter ps1__z
+Loaded filter bessellr
+Loaded filter 2massh
+Loaded filter ps1__i
+Loaded filter 2massj
+Loaded filter besselli
+Loaded filter 2massks
+Loaded filter ps1__z
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Loaded filter 2massh
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter ps1__g
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+ MultiNest Warning: no resume file found, starting from scratch
+ *****************************************************
+ MultiNest v3.10
+ Copyright Farhan Feroz & Mike Hobson
+ Release Jul 2015
+
+ no. of live points = 2048
+ dimensionality =   12
+ *****************************************************
+ Starting MultiNest
+ generating live points
+ live points generated, starting sampling
+Acceptance Rate:                        0.998572
+Replacements:                               2098
+Total Samples:                              2101
+Nested Sampling ln(Z):             -74601.765213
+Acceptance Rate:                        0.998141
+Replacements:                               2148
+Total Samples:                              2152
+Nested Sampling ln(Z):             -52265.485012
+Acceptance Rate:                        0.995471
+Replacements:                               2198
+Total Samples:                              2208
+Nested Sampling ln(Z):             -42506.951123
+Acceptance Rate:                        0.993372
+Replacements:                               2248
+Total Samples:                              2263
+Nested Sampling ln(Z):             -37711.967675
+Acceptance Rate:                        0.990090
+Replacements:                               2298
+Total Samples:                              2321
+Nested Sampling ln(Z):             -34701.087253
+Acceptance Rate:                        0.986555
+Replacements:                               2348
+Total Samples:                              2380
+Nested Sampling ln(Z):             -31835.801053
+Acceptance Rate:                        0.983997
+Replacements:                               2398
+Total Samples:                              2437
+Nested Sampling ln(Z):             -29276.113761
+Acceptance Rate:                        0.979592
+Replacements:                               2448
+Total Samples:                              2499
+Nested Sampling ln(Z):             -27221.491359
+Acceptance Rate:                        0.976544
+Replacements:                               2498
+Total Samples:                              2558
+Nested Sampling ln(Z):             -25891.220033
+Acceptance Rate:                        0.973262
+Replacements:                               2548
+Total Samples:                              2618
+Nested Sampling ln(Z):             -24371.734963
+Acceptance Rate:                        0.965799
+Replacements:                               2598
+Total Samples:                              2690
+Nested Sampling ln(Z):             -23056.941175
+Acceptance Rate:                        0.960464
+Replacements:                               2648
+Total Samples:                              2757
+Nested Sampling ln(Z):             -21838.623595
+Acceptance Rate:                        0.954369
+Replacements:                               2698
+Total Samples:                              2827
+Nested Sampling ln(Z):             -20748.410671
+Acceptance Rate:                        0.949551
+Replacements:                               2748
+Total Samples:                              2894
+Nested Sampling ln(Z):             -19356.922690
+Acceptance Rate:                        0.946549
+Replacements:                               2798
+Total Samples:                              2956
+Nested Sampling ln(Z):             -18463.692114
+Acceptance Rate:                        0.942422
+Replacements:                               2848
+Total Samples:                              3022
+Nested Sampling ln(Z):             -17544.383553
+Acceptance Rate:                        0.940604
+Replacements:                               2898
+Total Samples:                              3081
+Nested Sampling ln(Z):             -16768.605491
+Acceptance Rate:                        0.937659
+Replacements:                               2948
+Total Samples:                              3144
+Nested Sampling ln(Z):             -16117.422568
+Acceptance Rate:                        0.934247
+Replacements:                               2998
+Total Samples:                              3209
+Nested Sampling ln(Z):             -15455.934340
+Acceptance Rate:                        0.930971
+Replacements:                               3048
+Total Samples:                              3274
+Nested Sampling ln(Z):             -14938.746750
+Acceptance Rate:                        0.926158
+Replacements:                               3098
+Total Samples:                              3345
+Nested Sampling ln(Z):             -14231.610946
+Acceptance Rate:                        0.920199
+Replacements:                               3148
+Total Samples:                              3421
+Nested Sampling ln(Z):             -13580.776139
+Acceptance Rate:                        0.917910
+Replacements:                               3198
+Total Samples:                              3484
+Nested Sampling ln(Z):             -12962.383474
+Acceptance Rate:                        0.914157
+Replacements:                               3248
+Total Samples:                              3553
+Nested Sampling ln(Z):             -12531.179019
+Acceptance Rate:                        0.908540
+Replacements:                               3298
+Total Samples:                              3630
+Nested Sampling ln(Z):             -11989.010772
+Acceptance Rate:                        0.905599
+Replacements:                               3348
+Total Samples:                              3697
+Nested Sampling ln(Z):             -11375.340951
+Acceptance Rate:                        0.903723
+Replacements:                               3398
+Total Samples:                              3760
+Nested Sampling ln(Z):             -10800.297661
+Acceptance Rate:                        0.898619
+Replacements:                               3448
+Total Samples:                              3837
+Nested Sampling ln(Z):             -10305.427389
+Acceptance Rate:                        0.893715
+Replacements:                               3498
+Total Samples:                              3914
+Nested Sampling ln(Z):              -9879.111838
+Acceptance Rate:                        0.888555
+Replacements:                               3548
+Total Samples:                              3993
+Nested Sampling ln(Z):              -9526.944674
+Acceptance Rate:                        0.885335
+Replacements:                               3598
+Total Samples:                              4064
+Nested Sampling ln(Z):              -9153.852609
+Acceptance Rate:                        0.879036
+Replacements:                               3648
+Total Samples:                              4150
+Nested Sampling ln(Z):              -8611.024035
+Acceptance Rate:                        0.873612
+Replacements:                               3698
+Total Samples:                              4233
+Nested Sampling ln(Z):              -8206.592893
+Acceptance Rate:                        0.871223
+Replacements:                               3748
+Total Samples:                              4302
+Nested Sampling ln(Z):              -7869.199597
+Acceptance Rate:                        0.868114
+Replacements:                               3798
+Total Samples:                              4375
+Nested Sampling ln(Z):              -7476.289240
+Acceptance Rate:                        0.862780
+Replacements:                               3848
+Total Samples:                              4460
+Nested Sampling ln(Z):              -7180.009121
+Acceptance Rate:                        0.856515
+Replacements:                               3898
+Total Samples:                              4551
+Nested Sampling ln(Z):              -6870.574349
+Acceptance Rate:                        0.854361
+Replacements:                               3948
+Total Samples:                              4621
+Nested Sampling ln(Z):              -6631.990044
+Acceptance Rate:                        0.849193
+Replacements:                               3998
+Total Samples:                              4708
+Nested Sampling ln(Z):              -6363.732762
+Acceptance Rate:                        0.845977
+Replacements:                               4048
+Total Samples:                              4785
+Nested Sampling ln(Z):              -6072.876630
+Acceptance Rate:                        0.842690
+Replacements:                               4098
+Total Samples:                              4863
+Nested Sampling ln(Z):              -5865.685082
+Acceptance Rate:                        0.837303
+Replacements:                               4148
+Total Samples:                              4954
+Nested Sampling ln(Z):              -5592.330615
+Acceptance Rate:                        0.831946
+Replacements:                               4198
+Total Samples:                              5046
+Nested Sampling ln(Z):              -5378.995329
+Acceptance Rate:                        0.823894
+Replacements:                               4248
+Total Samples:                              5156
+Nested Sampling ln(Z):              -5118.104341
+Acceptance Rate:                        0.819916
+Replacements:                               4298
+Total Samples:                              5242
+Nested Sampling ln(Z):              -4869.280825
+Acceptance Rate:                        0.816833
+Replacements:                               4348
+Total Samples:                              5323
+Nested Sampling ln(Z):              -4682.341293
+Acceptance Rate:                        0.812038
+Replacements:                               4398
+Total Samples:                              5416
+Nested Sampling ln(Z):              -4493.195027
+Acceptance Rate:                        0.809905
+Replacements:                               4448
+Total Samples:                              5492
+Nested Sampling ln(Z):              -4301.062005
+Acceptance Rate:                        0.805949
+Replacements:                               4498
+Total Samples:                              5581
+Nested Sampling ln(Z):              -4142.754508
+Acceptance Rate:                        0.802541
+Replacements:                               4548
+Total Samples:                              5667
+Nested Sampling ln(Z):              -3969.140091
+Acceptance Rate:                        0.799096
+Replacements:                               4598
+Total Samples:                              5754
+Nested Sampling ln(Z):              -3797.449943
+Acceptance Rate:                        0.795210
+Replacements:                               4648
+Total Samples:                              5845
+Nested Sampling ln(Z):              -3642.126591
+Acceptance Rate:                        0.792911
+Replacements:                               4698
+Total Samples:                              5925
+Nested Sampling ln(Z):              -3505.793745
+Acceptance Rate:                        0.791729
+Replacements:                               4748
+Total Samples:                              5997
+Nested Sampling ln(Z):              -3360.344953
+Acceptance Rate:                        0.788496
+Replacements:                               4798
+Total Samples:                              6085
+Nested Sampling ln(Z):              -3227.873572
+Acceptance Rate:                        0.784974
+Replacements:                               4848
+Total Samples:                              6176
+Nested Sampling ln(Z):              -3096.469454
+Acceptance Rate:                        0.782428
+Replacements:                               4898
+Total Samples:                              6260
+Nested Sampling ln(Z):              -2933.529353
+Acceptance Rate:                        0.780319
+Replacements:                               4948
+Total Samples:                              6341
+Nested Sampling ln(Z):              -2799.638630
+Acceptance Rate:                        0.777052
+Replacements:                               4998
+Total Samples:                              6432
+Nested Sampling ln(Z):              -2682.468018
+Acceptance Rate:                        0.773047
+Replacements:                               5048
+Total Samples:                              6530
+Nested Sampling ln(Z):              -2575.795039
+Acceptance Rate:                        0.770906
+Replacements:                               5098
+Total Samples:                              6613
+Nested Sampling ln(Z):              -2458.449858
+Acceptance Rate:                        0.767327
+Replacements:                               5148
+Total Samples:                              6709
+Nested Sampling ln(Z):              -2360.612989
+Acceptance Rate:                        0.763850
+Replacements:                               5198
+Total Samples:                              6805
+Nested Sampling ln(Z):              -2262.915476
+Acceptance Rate:                        0.760029
+Replacements:                               5248
+Total Samples:                              6905
+Nested Sampling ln(Z):              -2166.161144
+Acceptance Rate:                        0.758808
+Replacements:                               5298
+Total Samples:                              6982
+Nested Sampling ln(Z):              -2073.968792
+Acceptance Rate:                        0.754408
+Replacements:                               5348
+Total Samples:                              7089
+Nested Sampling ln(Z):              -1983.610267
+Acceptance Rate:                        0.750243
+Replacements:                               5398
+Total Samples:                              7195
+Nested Sampling ln(Z):              -1895.750739
+Acceptance Rate:                        0.747428
+Replacements:                               5448
+Total Samples:                              7289
+Nested Sampling ln(Z):              -1810.647574
+Acceptance Rate:                        0.742772
+Replacements:                               5498
+Total Samples:                              7402
+Nested Sampling ln(Z):              -1740.801326
+Acceptance Rate:                        0.738847
+Replacements:                               5548
+Total Samples:                              7509
+Nested Sampling ln(Z):              -1660.875756
+Acceptance Rate:                        0.737258
+Replacements:                               5598
+Total Samples:                              7593
+Nested Sampling ln(Z):              -1587.763315
+Acceptance Rate:                        0.735321
+Replacements:                               5648
+Total Samples:                              7681
+Nested Sampling ln(Z):              -1522.815531
+Acceptance Rate:                        0.733900
+Replacements:                               5698
+Total Samples:                              7764
+Nested Sampling ln(Z):              -1455.490201
+Acceptance Rate:                        0.731112
+Replacements:                               5748
+Total Samples:                              7862
+Nested Sampling ln(Z):              -1404.869780
+Acceptance Rate:                        0.726021
+Replacements:                               5798
+Total Samples:                              7986
+Nested Sampling ln(Z):              -1358.184243
+Acceptance Rate:                        0.722689
+Replacements:                               5848
+Total Samples:                              8092
+Nested Sampling ln(Z):              -1307.503262
+Acceptance Rate:                        0.720498
+Replacements:                               5898
+Total Samples:                              8186
+Nested Sampling ln(Z):              -1252.530736
+Acceptance Rate:                        0.718357
+Replacements:                               5948
+Total Samples:                              8280
+Nested Sampling ln(Z):              -1196.673292
+Acceptance Rate:                        0.716008
+Replacements:                               5998
+Total Samples:                              8377
+Nested Sampling ln(Z):              -1142.141014
+Acceptance Rate:                        0.713628
+Replacements:                               6048
+Total Samples:                              8475
+Nested Sampling ln(Z):              -1101.015164
+Acceptance Rate:                        0.711552
+Replacements:                               6098
+Total Samples:                              8570
+Nested Sampling ln(Z):              -1058.295478
+Acceptance Rate:                        0.709849
+Replacements:                               6148
+Total Samples:                              8661
+Nested Sampling ln(Z):              -1019.097845
+Acceptance Rate:                        0.707534
+Replacements:                               6198
+Total Samples:                              8760
+Nested Sampling ln(Z):               -977.783796
+Acceptance Rate:                        0.705431
+Replacements:                               6248
+Total Samples:                              8857
+Nested Sampling ln(Z):               -940.371223
+Acceptance Rate:                        0.702667
+Replacements:                               6298
+Total Samples:                              8963
+Nested Sampling ln(Z):               -900.863946
+Acceptance Rate:                        0.700353
+Replacements:                               6348
+Total Samples:                              9064
+Nested Sampling ln(Z):               -866.618174
+Acceptance Rate:                        0.699006
+Replacements:                               6398
+Total Samples:                              9153
+Nested Sampling ln(Z):               -839.594350
+Acceptance Rate:                        0.697081
+Replacements:                               6448
+Total Samples:                              9250
+Nested Sampling ln(Z):               -804.510080
+Acceptance Rate:                        0.695420
+Replacements:                               6498
+Total Samples:                              9344
+Nested Sampling ln(Z):               -773.245604
+Acceptance Rate:                        0.692470
+Replacements:                               6548
+Total Samples:                              9456
+Nested Sampling ln(Z):               -744.928397
+Acceptance Rate:                        0.690818
+Replacements:                               6598
+Total Samples:                              9551
+Nested Sampling ln(Z):               -720.077750
+Acceptance Rate:                        0.689126
+Replacements:                               6648
+Total Samples:                              9647
+Nested Sampling ln(Z):               -696.097570
+Acceptance Rate:                        0.686060
+Replacements:                               6698
+Total Samples:                              9763
+Nested Sampling ln(Z):               -672.470961
+Acceptance Rate:                        0.682858
+Replacements:                               6748
+Total Samples:                              9882
+Nested Sampling ln(Z):               -648.401196
+Acceptance Rate:                        0.681435
+Replacements:                               6798
+Total Samples:                              9976
+Nested Sampling ln(Z):               -626.162610
+Acceptance Rate:                        0.678490
+Replacements:                               6848
+Total Samples:                             10093
+Nested Sampling ln(Z):               -602.814202
+Acceptance Rate:                        0.676407
+Replacements:                               6898
+Total Samples:                             10198
+Nested Sampling ln(Z):               -581.060133
+Acceptance Rate:                        0.674694
+Replacements:                               6948
+Total Samples:                             10298
+Nested Sampling ln(Z):               -560.381130
+Acceptance Rate:                        0.673079
+Replacements:                               6998
+Total Samples:                             10397
+Nested Sampling ln(Z):               -541.369949
+Acceptance Rate:                        0.670217
+Replacements:                               7048
+Total Samples:                             10516
+Nested Sampling ln(Z):               -525.781041
+Acceptance Rate:                        0.668487
+Replacements:                               7098
+Total Samples:                             10618
+Nested Sampling ln(Z):               -510.967005
+Acceptance Rate:                        0.666978
+Replacements:                               7148
+Total Samples:                             10717
+Nested Sampling ln(Z):               -497.255904
+Acceptance Rate:                        0.663900
+Replacements:                               7198
+Total Samples:                             10842
+Nested Sampling ln(Z):               -485.489774
+Acceptance Rate:                        0.662705
+Replacements:                               7248
+Total Samples:                             10937
+Nested Sampling ln(Z):               -474.548080
+Acceptance Rate:                        0.659796
+Replacements:                               7298
+Total Samples:                             11061
+Nested Sampling ln(Z):               -461.969179
+Acceptance Rate:                        0.657363
+Replacements:                               7348
+Total Samples:                             11178
+Nested Sampling ln(Z):               -449.953259
+Acceptance Rate:                        0.654864
+Replacements:                               7398
+Total Samples:                             11297
+Nested Sampling ln(Z):               -438.081371
+Acceptance Rate:                        0.652418
+Replacements:                               7448
+Total Samples:                             11416
+Nested Sampling ln(Z):               -428.456550
+Acceptance Rate:                        0.650078
+Replacements:                               7498
+Total Samples:                             11534
+Nested Sampling ln(Z):               -418.352338
+Acceptance Rate:                        0.648900
+Replacements:                               7548
+Total Samples:                             11632
+Nested Sampling ln(Z):               -406.795635
+Acceptance Rate:                        0.647079
+Replacements:                               7598
+Total Samples:                             11742
+Nested Sampling ln(Z):               -399.932696
+Acceptance Rate:                        0.645782
+Replacements:                               7648
+Total Samples:                             11843
+Nested Sampling ln(Z):               -390.929407
+Acceptance Rate:                        0.644130
+Replacements:                               7698
+Total Samples:                             11951
+Nested Sampling ln(Z):               -383.800022
+Acceptance Rate:                        0.641922
+Replacements:                               7748
+Total Samples:                             12070
+Nested Sampling ln(Z):               -376.010506
+Acceptance Rate:                        0.640230
+Replacements:                               7798
+Total Samples:                             12180
+Nested Sampling ln(Z):               -367.956836
+Acceptance Rate:                        0.638464
+Replacements:                               7848
+Total Samples:                             12292
+Nested Sampling ln(Z):               -360.465203
+Acceptance Rate:                        0.636115
+Replacements:                               7898
+Total Samples:                             12416
+Nested Sampling ln(Z):               -352.112530
+Acceptance Rate:                        0.635637
+Replacements:                               7948
+Total Samples:                             12504
+Nested Sampling ln(Z):               -345.517679
+Acceptance Rate:                        0.633656
+Replacements:                               7998
+Total Samples:                             12622
+Nested Sampling ln(Z):               -338.603467
+Acceptance Rate:                        0.631364
+Replacements:                               8048
+Total Samples:                             12747
+Nested Sampling ln(Z):               -332.688366
+Acceptance Rate:                        0.627557
+Replacements:                               8098
+Total Samples:                             12904
+Nested Sampling ln(Z):               -327.001537
+Acceptance Rate:                        0.625518
+Replacements:                               8148
+Total Samples:                             13026
+Nested Sampling ln(Z):               -322.880290
+Acceptance Rate:                        0.623802
+Replacements:                               8198
+Total Samples:                             13142
+Nested Sampling ln(Z):               -317.286955
+Acceptance Rate:                        0.621084
+Replacements:                               8248
+Total Samples:                             13280
+Nested Sampling ln(Z):               -312.207964
+Acceptance Rate:                        0.619300
+Replacements:                               8298
+Total Samples:                             13399
+Nested Sampling ln(Z):               -307.231361
+Acceptance Rate:                        0.617958
+Replacements:                               8348
+Total Samples:                             13509
+Nested Sampling ln(Z):               -302.076404
+Acceptance Rate:                        0.616684
+Replacements:                               8398
+Total Samples:                             13618
+Nested Sampling ln(Z):               -298.317843
+Acceptance Rate:                        0.615161
+Replacements:                               8448
+Total Samples:                             13733
+Nested Sampling ln(Z):               -293.509154
+Acceptance Rate:                        0.613441
+Replacements:                               8498
+Total Samples:                             13853
+Nested Sampling ln(Z):               -289.784901
+Acceptance Rate:                        0.611489
+Replacements:                               8548
+Total Samples:                             13979
+Nested Sampling ln(Z):               -283.929384
+Acceptance Rate:                        0.611001
+Replacements:                               8598
+Total Samples:                             14072
+Nested Sampling ln(Z):               -278.835160
+Acceptance Rate:                        0.608586
+Replacements:                               8648
+Total Samples:                             14210
+Nested Sampling ln(Z):               -273.416835
+Acceptance Rate:                        0.605710
+Replacements:                               8698
+Total Samples:                             14360
+Nested Sampling ln(Z):               -268.822436
+Acceptance Rate:                        0.602853
+Replacements:                               8748
+Total Samples:                             14511
+Nested Sampling ln(Z):               -264.544739
+Acceptance Rate:                        0.600464
+Replacements:                               8798
+Total Samples:                             14652
+Nested Sampling ln(Z):               -260.132438
+Acceptance Rate:                        0.598890
+Replacements:                               8848
+Total Samples:                             14774
+Nested Sampling ln(Z):               -256.546501
+Acceptance Rate:                        0.596861
+Replacements:                               8898
+Total Samples:                             14908
+Nested Sampling ln(Z):               -253.389212
+Acceptance Rate:                        0.594907
+Replacements:                               8948
+Total Samples:                             15041
+Nested Sampling ln(Z):               -249.356611
+Acceptance Rate:                        0.594006
+Replacements:                               8998
+Total Samples:                             15148
+Nested Sampling ln(Z):               -245.319085
+Acceptance Rate:                        0.592496
+Replacements:                               9048
+Total Samples:                             15271
+Nested Sampling ln(Z):               -241.513190
+Acceptance Rate:                        0.589440
+Replacements:                               9098
+Total Samples:                             15435
+Nested Sampling ln(Z):               -237.984496
+Acceptance Rate:                        0.586598
+Replacements:                               9148
+Total Samples:                             15595
+Nested Sampling ln(Z):               -233.828716
+Acceptance Rate:                        0.583592
+Replacements:                               9198
+Total Samples:                             15761
+Nested Sampling ln(Z):               -230.507781
+Acceptance Rate:                        0.580905
+Replacements:                               9248
+Total Samples:                             15920
+Nested Sampling ln(Z):               -227.526642
+Acceptance Rate:                        0.579242
+Replacements:                               9298
+Total Samples:                             16052
+Nested Sampling ln(Z):               -223.960082
+Acceptance Rate:                        0.576788
+Replacements:                               9348
+Total Samples:                             16207
+Nested Sampling ln(Z):               -220.984086
+Acceptance Rate:                        0.574907
+Replacements:                               9398
+Total Samples:                             16347
+Nested Sampling ln(Z):               -217.907325
+Acceptance Rate:                        0.574416
+Replacements:                               9448
+Total Samples:                             16448
+Nested Sampling ln(Z):               -214.832996
+Acceptance Rate:                        0.573170
+Replacements:                               9498
+Total Samples:                             16571
+Nested Sampling ln(Z):               -212.285730
+Acceptance Rate:                        0.571258
+Replacements:                               9548
+Total Samples:                             16714
+Nested Sampling ln(Z):               -209.807523
+Acceptance Rate:                        0.568568
+Replacements:                               9598
+Total Samples:                             16881
+Nested Sampling ln(Z):               -207.545082
+Acceptance Rate:                        0.566064
+Replacements:                               9648
+Total Samples:                             17044
+Nested Sampling ln(Z):               -205.008448
+Acceptance Rate:                        0.563641
+Replacements:                               9698
+Total Samples:                             17206
+Nested Sampling ln(Z):               -202.821267
+Acceptance Rate:                        0.561844
+Replacements:                               9748
+Total Samples:                             17350
+Nested Sampling ln(Z):               -200.375282
+Acceptance Rate:                        0.559854
+Replacements:                               9798
+Total Samples:                             17501
+Nested Sampling ln(Z):               -198.157480
+Acceptance Rate:                        0.558340
+Replacements:                               9848
+Total Samples:                             17638
+Nested Sampling ln(Z):               -196.024263
+Acceptance Rate:                        0.556224
+Replacements:                               9898
+Total Samples:                             17795
+Nested Sampling ln(Z):               -193.783799
+Acceptance Rate:                        0.554577
+Replacements:                               9948
+Total Samples:                             17938
+Nested Sampling ln(Z):               -191.608878
+Acceptance Rate:                        0.553477
+Replacements:                               9998
+Total Samples:                             18064
+Nested Sampling ln(Z):               -189.694693
+Acceptance Rate:                        0.551967
+Replacements:                              10048
+Total Samples:                             18204
+Nested Sampling ln(Z):               -187.943179
+Acceptance Rate:                        0.550270
+Replacements:                              10098
+Total Samples:                             18351
+Nested Sampling ln(Z):               -186.229264
+Acceptance Rate:                        0.548986
+Replacements:                              10148
+Total Samples:                             18485
+Nested Sampling ln(Z):               -184.394070
+Acceptance Rate:                        0.547485
+Replacements:                              10198
+Total Samples:                             18627
+Nested Sampling ln(Z):               -182.726018
+Acceptance Rate:                        0.545019
+Replacements:                              10248
+Total Samples:                             18803
+Nested Sampling ln(Z):               -180.881581
+Acceptance Rate:                        0.543516
+Replacements:                              10298
+Total Samples:                             18947
+Nested Sampling ln(Z):               -179.379149
+Acceptance Rate:                        0.540733
+Replacements:                              10348
+Total Samples:                             19137
+Nested Sampling ln(Z):               -178.049050
+Acceptance Rate:                        0.538729
+Replacements:                              10398
+Total Samples:                             19301
+Nested Sampling ln(Z):               -176.650851
+Acceptance Rate:                        0.536097
+Replacements:                              10448
+Total Samples:                             19489
+Nested Sampling ln(Z):               -175.234031
+Acceptance Rate:                        0.534821
+Replacements:                              10498
+Total Samples:                             19629
+Nested Sampling ln(Z):               -174.045460
+Acceptance Rate:                        0.532270
+Replacements:                              10548
+Total Samples:                             19817
+Nested Sampling ln(Z):               -172.997249
+Acceptance Rate:                        0.530033
+Replacements:                              10598
+Total Samples:                             19995
+Nested Sampling ln(Z):               -172.051981
+Acceptance Rate:                        0.528542
+Replacements:                              10648
+Total Samples:                             20146
+Nested Sampling ln(Z):               -171.104215
+Acceptance Rate:                        0.527151
+Replacements:                              10698
+Total Samples:                             20294
+Nested Sampling ln(Z):               -170.033469
+Acceptance Rate:                        0.524882
+Replacements:                              10748
+Total Samples:                             20477
+Nested Sampling ln(Z):               -169.022603
+Acceptance Rate:                        0.523971
+Replacements:                              10798
+Total Samples:                             20608
+Nested Sampling ln(Z):               -168.060717
+Acceptance Rate:                        0.521689
+Replacements:                              10848
+Total Samples:                             20794
+Nested Sampling ln(Z):               -167.159329
+Acceptance Rate:                        0.519596
+Replacements:                              10898
+Total Samples:                             20974
+Nested Sampling ln(Z):               -166.289021
+Acceptance Rate:                        0.517220
+Replacements:                              10948
+Total Samples:                             21167
+Nested Sampling ln(Z):               -165.384693
+Acceptance Rate:                        0.516387
+Replacements:                              10998
+Total Samples:                             21298
+Nested Sampling ln(Z):               -164.485068
+Acceptance Rate:                        0.514650
+Replacements:                              11048
+Total Samples:                             21467
+Nested Sampling ln(Z):               -163.546756
+Acceptance Rate:                        0.513202
+Replacements:                              11098
+Total Samples:                             21625
+Nested Sampling ln(Z):               -162.650675
+Acceptance Rate:                        0.511611
+Replacements:                              11148
+Total Samples:                             21790
+Nested Sampling ln(Z):               -161.821689
+Acceptance Rate:                        0.510415
+Replacements:                              11198
+Total Samples:                             21939
+Nested Sampling ln(Z):               -161.010573
+Acceptance Rate:                        0.508890
+Replacements:                              11248
+Total Samples:                             22103
+Nested Sampling ln(Z):               -160.240492
+Acceptance Rate:                        0.506750
+Replacements:                              11298
+Total Samples:                             22295
+Nested Sampling ln(Z):               -159.497094
+Acceptance Rate:                        0.504962
+Replacements:                              11348
+Total Samples:                             22473
+Nested Sampling ln(Z):               -158.837885
+Acceptance Rate:                        0.502779
+Replacements:                              11398
+Total Samples:                             22670
+Nested Sampling ln(Z):               -158.152538
+Acceptance Rate:                        0.501292
+Replacements:                              11448
+Total Samples:                             22837
+Nested Sampling ln(Z):               -157.525498
+Acceptance Rate:                        0.499197
+Replacements:                              11498
+Total Samples:                             23033
+Nested Sampling ln(Z):               -156.895470
+Acceptance Rate:                        0.497973
+Replacements:                              11548
+Total Samples:                             23190
+Nested Sampling ln(Z):               -156.252028
+Acceptance Rate:                        0.496532
+Replacements:                              11598
+Total Samples:                             23358
+Nested Sampling ln(Z):               -155.686489
+Acceptance Rate:                        0.495091
+Replacements:                              11648
+Total Samples:                             23527
+Nested Sampling ln(Z):               -155.175878
+Acceptance Rate:                        0.493316
+Replacements:                              11698
+Total Samples:                             23713
+Nested Sampling ln(Z):               -154.676703
+Acceptance Rate:                        0.491569
+Replacements:                              11748
+Total Samples:                             23899
+Nested Sampling ln(Z):               -154.182392
+Acceptance Rate:                        0.489930
+Replacements:                              11798
+Total Samples:                             24081
+Nested Sampling ln(Z):               -153.632338
+Acceptance Rate:                        0.487793
+Replacements:                              11848
+Total Samples:                             24289
+Nested Sampling ln(Z):               -153.083869
+Acceptance Rate:                        0.486129
+Replacements:                              11898
+Total Samples:                             24475
+Nested Sampling ln(Z):               -152.543186
+Acceptance Rate:                        0.484844
+Replacements:                              11948
+Total Samples:                             24643
+Nested Sampling ln(Z):               -152.027112
+Acceptance Rate:                        0.483790
+Replacements:                              11998
+Total Samples:                             24800
+Nested Sampling ln(Z):               -151.548641
+Acceptance Rate:                        0.483293
+Replacements:                              12048
+Total Samples:                             24929
+Nested Sampling ln(Z):               -151.076084
+Acceptance Rate:                        0.482030
+Replacements:                              12098
+Total Samples:                             25098
+Nested Sampling ln(Z):               -150.603212
+Acceptance Rate:                        0.479722
+Replacements:                              12148
+Total Samples:                             25323
+Nested Sampling ln(Z):               -150.119612
+Acceptance Rate:                        0.478240
+Replacements:                              12198
+Total Samples:                             25506
+Nested Sampling ln(Z):               -149.673867
+Acceptance Rate:                        0.476353
+Replacements:                              12248
+Total Samples:                             25712
+Nested Sampling ln(Z):               -149.252046
+Acceptance Rate:                        0.474918
+Replacements:                              12298
+Total Samples:                             25895
+Nested Sampling ln(Z):               -148.864785
+Acceptance Rate:                        0.474394
+Replacements:                              12348
+Total Samples:                             26029
+Nested Sampling ln(Z):               -148.480850
+Acceptance Rate:                        0.471694
+Replacements:                              12398
+Total Samples:                             26284
+Nested Sampling ln(Z):               -148.096390
+Acceptance Rate:                        0.469399
+Replacements:                              12448
+Total Samples:                             26519
+Nested Sampling ln(Z):               -147.718591
+Acceptance Rate:                        0.467687
+Replacements:                              12498
+Total Samples:                             26723
+Nested Sampling ln(Z):               -147.366551
+Acceptance Rate:                        0.465430
+Replacements:                              12548
+Total Samples:                             26960
+Nested Sampling ln(Z):               -147.052119
+Acceptance Rate:                        0.463861
+Replacements:                              12598
+Total Samples:                             27159
+Nested Sampling ln(Z):               -146.741254
+Acceptance Rate:                        0.462687
+Replacements:                              12648
+Total Samples:                             27336
+Nested Sampling ln(Z):               -146.437387
+Acceptance Rate:                        0.460974
+Replacements:                              12698
+Total Samples:                             27546
+Nested Sampling ln(Z):               -146.130339
+Acceptance Rate:                        0.459503
+Replacements:                              12748
+Total Samples:                             27743
+Nested Sampling ln(Z):               -145.840362
+Acceptance Rate:                        0.457464
+Replacements:                              12798
+Total Samples:                             27976
+Nested Sampling ln(Z):               -145.548146
+Acceptance Rate:                        0.456509
+Replacements:                              12848
+Total Samples:                             28144
+Nested Sampling ln(Z):               -145.269297
+Acceptance Rate:                        0.455004
+Replacements:                              12898
+Total Samples:                             28347
+Nested Sampling ln(Z):               -144.995722
+Acceptance Rate:                        0.453425
+Replacements:                              12948
+Total Samples:                             28556
+Nested Sampling ln(Z):               -144.732609
+Acceptance Rate:                        0.452655
+Replacements:                              12998
+Total Samples:                             28715
+Nested Sampling ln(Z):               -144.475499
+Acceptance Rate:                        0.451020
+Replacements:                              13048
+Total Samples:                             28930
+Nested Sampling ln(Z):               -144.224374
+Acceptance Rate:                        0.449501
+Replacements:                              13098
+Total Samples:                             29139
+Nested Sampling ln(Z):               -143.981069
+Acceptance Rate:                        0.447866
+Replacements:                              13148
+Total Samples:                             29357
+Nested Sampling ln(Z):               -143.744075
+Acceptance Rate:                        0.446754
+Replacements:                              13198
+Total Samples:                             29542
+Nested Sampling ln(Z):               -143.502550
+Acceptance Rate:                        0.445820
+Replacements:                              13248
+Total Samples:                             29716
+Nested Sampling ln(Z):               -143.252455
+Acceptance Rate:                        0.444214
+Replacements:                              13298
+Total Samples:                             29936
+Nested Sampling ln(Z):               -142.997114
+Acceptance Rate:                        0.442338
+Replacements:                              13348
+Total Samples:                             30176
+Nested Sampling ln(Z):               -142.752851
+Acceptance Rate:                        0.441479
+Replacements:                              13398
+Total Samples:                             30348
+Nested Sampling ln(Z):               -142.511240
+Acceptance Rate:                        0.440398
+Replacements:                              13448
+Total Samples:                             30536
+Nested Sampling ln(Z):               -142.257883
+Acceptance Rate:                        0.439302
+Replacements:                              13498
+Total Samples:                             30726
+Nested Sampling ln(Z):               -142.013204
+Acceptance Rate:                        0.437639
+Replacements:                              13548
+Total Samples:                             30957
+Nested Sampling ln(Z):               -141.772620
+Acceptance Rate:                        0.435847
+Replacements:                              13598
+Total Samples:                             31199
+Nested Sampling ln(Z):               -141.529555
+Acceptance Rate:                        0.434844
+Replacements:                              13648
+Total Samples:                             31386
+Nested Sampling ln(Z):               -141.284843
+Acceptance Rate:                        0.433193
+Replacements:                              13698
+Total Samples:                             31621
+Nested Sampling ln(Z):               -141.046094
+Acceptance Rate:                        0.431594
+Replacements:                              13748
+Total Samples:                             31854
+Nested Sampling ln(Z):               -140.814560
+Acceptance Rate:                        0.429871
+Replacements:                              13798
+Total Samples:                             32098
+Nested Sampling ln(Z):               -140.595016
+Acceptance Rate:                        0.429169
+Replacements:                              13848
+Total Samples:                             32267
+Nested Sampling ln(Z):               -140.382408
+Acceptance Rate:                        0.427802
+Replacements:                              13898
+Total Samples:                             32487
+Nested Sampling ln(Z):               -140.164799
+Acceptance Rate:                        0.427001
+Replacements:                              13948
+Total Samples:                             32665
+Nested Sampling ln(Z):               -139.944587
+Acceptance Rate:                        0.425846
+Replacements:                              13998
+Total Samples:                             32871
+Nested Sampling ln(Z):               -139.724943
+Acceptance Rate:                        0.424398
+Replacements:                              14048
+Total Samples:                             33101
+Nested Sampling ln(Z):               -139.510659
+Acceptance Rate:                        0.423135
+Replacements:                              14098
+Total Samples:                             33318
+Nested Sampling ln(Z):               -139.297803
+Acceptance Rate:                        0.422139
+Replacements:                              14148
+Total Samples:                             33515
+Nested Sampling ln(Z):               -139.079269
+Acceptance Rate:                        0.421131
+Replacements:                              14198
+Total Samples:                             33714
+Nested Sampling ln(Z):               -138.868152
+Acceptance Rate:                        0.419701
+Replacements:                              14248
+Total Samples:                             33948
+Nested Sampling ln(Z):               -138.667020
+Acceptance Rate:                        0.418977
+Replacements:                              14298
+Total Samples:                             34126
+Nested Sampling ln(Z):               -138.467373
+Acceptance Rate:                        0.418175
+Replacements:                              14348
+Total Samples:                             34311
+Nested Sampling ln(Z):               -138.269653
+Acceptance Rate:                        0.417200
+Replacements:                              14398
+Total Samples:                             34511
+Nested Sampling ln(Z):               -138.071410
+Acceptance Rate:                        0.415316
+Replacements:                              14448
+Total Samples:                             34788
+Nested Sampling ln(Z):               -137.878838
+Acceptance Rate:                        0.414596
+Replacements:                              14498
+Total Samples:                             34969
+Nested Sampling ln(Z):               -137.692712
+Acceptance Rate:                        0.413801
+Replacements:                              14548
+Total Samples:                             35157
+Nested Sampling ln(Z):               -137.509127
+Acceptance Rate:                        0.412443
+Replacements:                              14598
+Total Samples:                             35394
+Nested Sampling ln(Z):               -137.326007
+Acceptance Rate:                        0.410653
+Replacements:                              14648
+Total Samples:                             35670
+Nested Sampling ln(Z):               -137.145610
+Acceptance Rate:                        0.409952
+Replacements:                              14698
+Total Samples:                             35853
+Nested Sampling ln(Z):               -136.966199
+Acceptance Rate:                        0.409360
+Replacements:                              14748
+Total Samples:                             36027
+Nested Sampling ln(Z):               -136.790478
+Acceptance Rate:                        0.408198
+Replacements:                              14798
+Total Samples:                             36252
+Nested Sampling ln(Z):               -136.617632
+Acceptance Rate:                        0.406951
+Replacements:                              14848
+Total Samples:                             36486
+Nested Sampling ln(Z):               -136.448731
+Acceptance Rate:                        0.406062
+Replacements:                              14898
+Total Samples:                             36689
+Nested Sampling ln(Z):               -136.275386
+Acceptance Rate:                        0.405040
+Replacements:                              14948
+Total Samples:                             36905
+Nested Sampling ln(Z):               -136.105249
+Acceptance Rate:                        0.404030
+Replacements:                              14998
+Total Samples:                             37121
+Nested Sampling ln(Z):               -135.937758
+Acceptance Rate:                        0.403032
+Replacements:                              15048
+Total Samples:                             37337
+Nested Sampling ln(Z):               -135.767225
+Acceptance Rate:                        0.402238
+Replacements:                              15098
+Total Samples:                             37535
+Nested Sampling ln(Z):               -135.593868
+Acceptance Rate:                        0.401889
+Replacements:                              15148
+Total Samples:                             37692
+Nested Sampling ln(Z):               -135.419139
+Acceptance Rate:                        0.400802
+Replacements:                              15198
+Total Samples:                             37919
+Nested Sampling ln(Z):               -135.249598
+Acceptance Rate:                        0.399654
+Replacements:                              15248
+Total Samples:                             38153
+Nested Sampling ln(Z):               -135.079580
+Acceptance Rate:                        0.398728
+Replacements:                              15298
+Total Samples:                             38367
+Nested Sampling ln(Z):               -134.907479
+Acceptance Rate:                        0.397988
+Replacements:                              15348
+Total Samples:                             38564
+Nested Sampling ln(Z):               -134.736822
+Acceptance Rate:                        0.396968
+Replacements:                              15398
+Total Samples:                             38789
+Nested Sampling ln(Z):               -134.567932
+Acceptance Rate:                        0.395768
+Replacements:                              15448
+Total Samples:                             39033
+Nested Sampling ln(Z):               -134.401612
+Acceptance Rate:                        0.394753
+Replacements:                              15498
+Total Samples:                             39260
+Nested Sampling ln(Z):               -134.240646
+Acceptance Rate:                        0.393491
+Replacements:                              15548
+Total Samples:                             39513
+Nested Sampling ln(Z):               -134.083570
+Acceptance Rate:                        0.392511
+Replacements:                              15598
+Total Samples:                             39739
+Nested Sampling ln(Z):               -133.928667
+Acceptance Rate:                        0.391778
+Replacements:                              15648
+Total Samples:                             39941
+Nested Sampling ln(Z):               -133.773061
+Acceptance Rate:                        0.390925
+Replacements:                              15698
+Total Samples:                             40156
+Nested Sampling ln(Z):               -133.618416
+Acceptance Rate:                        0.390072
+Replacements:                              15748
+Total Samples:                             40372
+Nested Sampling ln(Z):               -133.465883
+Acceptance Rate:                        0.388960
+Replacements:                              15798
+Total Samples:                             40616
+Nested Sampling ln(Z):               -133.317169
+Acceptance Rate:                        0.387927
+Replacements:                              15848
+Total Samples:                             40853
+Nested Sampling ln(Z):               -133.169966
+Acceptance Rate:                        0.387274
+Replacements:                              15898
+Total Samples:                             41051
+Nested Sampling ln(Z):               -133.024999
+Acceptance Rate:                        0.386412
+Replacements:                              15948
+Total Samples:                             41272
+Nested Sampling ln(Z):               -132.883291
+Acceptance Rate:                        0.384817
+Replacements:                              15998
+Total Samples:                             41573
+Nested Sampling ln(Z):               -132.744385
+Acceptance Rate:                        0.384411
+Replacements:                              16048
+Total Samples:                             41747
+Nested Sampling ln(Z):               -132.606299
+Acceptance Rate:                        0.383295
+Replacements:                              16098
+Total Samples:                             41999
+Nested Sampling ln(Z):               -132.468624
+Acceptance Rate:                        0.382373
+Replacements:                              16148
+Total Samples:                             42231
+Nested Sampling ln(Z):               -132.331687
+Acceptance Rate:                        0.381695
+Replacements:                              16198
+Total Samples:                             42437
+Nested Sampling ln(Z):               -132.195403
+Acceptance Rate:                        0.380952
+Replacements:                              16248
+Total Samples:                             42651
+Nested Sampling ln(Z):               -132.060862
+Acceptance Rate:                        0.379827
+Replacements:                              16298
+Total Samples:                             42909
+Nested Sampling ln(Z):               -131.924711
+Acceptance Rate:                        0.378847
+Replacements:                              16348
+Total Samples:                             43152
+Nested Sampling ln(Z):               -131.790220
+Acceptance Rate:                        0.378122
+Replacements:                              16398
+Total Samples:                             43367
+Nested Sampling ln(Z):               -131.652988
+Acceptance Rate:                        0.377412
+Replacements:                              16448
+Total Samples:                             43581
+Nested Sampling ln(Z):               -131.518421
+Acceptance Rate:                        0.376538
+Replacements:                              16498
+Total Samples:                             43815
+Nested Sampling ln(Z):               -131.384991
+Acceptance Rate:                        0.375929
+Replacements:                              16548
+Total Samples:                             44019
+Nested Sampling ln(Z):               -131.250300
+Acceptance Rate:                        0.375079
+Replacements:                              16598
+Total Samples:                             44252
+Nested Sampling ln(Z):               -131.117645
+Acceptance Rate:                        0.374045
+Replacements:                              16648
+Total Samples:                             44508
+Nested Sampling ln(Z):               -130.984732
+Acceptance Rate:                        0.372956
+Replacements:                              16698
+Total Samples:                             44772
+Nested Sampling ln(Z):               -130.856108
+Acceptance Rate:                        0.372054
+Replacements:                              16748
+Total Samples:                             45015
+Nested Sampling ln(Z):               -130.728003
+Acceptance Rate:                        0.370817
+Replacements:                              16798
+Total Samples:                             45300
+Nested Sampling ln(Z):               -130.601282
+Acceptance Rate:                        0.369603
+Replacements:                              16848
+Total Samples:                             45584
+Nested Sampling ln(Z):               -130.474642
+Acceptance Rate:                        0.368702
+Replacements:                              16898
+Total Samples:                             45831
+Nested Sampling ln(Z):               -130.349681
+Acceptance Rate:                        0.366745
+Replacements:                              16948
+Total Samples:                             46212
+Nested Sampling ln(Z):               -130.229713
+Acceptance Rate:                        0.365895
+Replacements:                              16998
+Total Samples:                             46456
+Nested Sampling ln(Z):               -130.112216
+Acceptance Rate:                        0.365241
+Replacements:                              17048
+Total Samples:                             46676
+Nested Sampling ln(Z):               -129.993441
+Acceptance Rate:                        0.364711
+Replacements:                              17098
+Total Samples:                             46881
+Nested Sampling ln(Z):               -129.871724
+Acceptance Rate:                        0.363282
+Replacements:                              17148
+Total Samples:                             47203
+Nested Sampling ln(Z):               -129.748908
+Acceptance Rate:                        0.362246
+Replacements:                              17198
+Total Samples:                             47476
+Nested Sampling ln(Z):               -129.621734
+Acceptance Rate:                        0.361464
+Replacements:                              17248
+Total Samples:                             47717
+Nested Sampling ln(Z):               -129.493775
+Acceptance Rate:                        0.360375
+Replacements:                              17298
+Total Samples:                             48000
+Nested Sampling ln(Z):               -129.372002
+Acceptance Rate:                        0.359723
+Replacements:                              17348
+Total Samples:                             48226
+Nested Sampling ln(Z):               -129.251457
+Acceptance Rate:                        0.358640
+Replacements:                              17398
+Total Samples:                             48511
+Nested Sampling ln(Z):               -129.126041
+Acceptance Rate:                        0.357460
+Replacements:                              17448
+Total Samples:                             48811
+Nested Sampling ln(Z):               -128.994388
+Acceptance Rate:                        0.356709
+Replacements:                              17498
+Total Samples:                             49054
+Nested Sampling ln(Z):               -128.863136
+Acceptance Rate:                        0.355597
+Replacements:                              17548
+Total Samples:                             49348
+Nested Sampling ln(Z):               -128.732797
+Acceptance Rate:                        0.354120
+Replacements:                              17598
+Total Samples:                             49695
+Nested Sampling ln(Z):               -128.602506
+Acceptance Rate:                        0.353179
+Replacements:                              17648
+Total Samples:                             49969
+Nested Sampling ln(Z):               -128.472723
+Acceptance Rate:                        0.352494
+Replacements:                              17698
+Total Samples:                             50208
+Nested Sampling ln(Z):               -128.342213
+Acceptance Rate:                        0.351119
+Replacements:                              17748
+Total Samples:                             50547
+Nested Sampling ln(Z):               -128.209811
+Acceptance Rate:                        0.350492
+Replacements:                              17798
+Total Samples:                             50780
+Nested Sampling ln(Z):               -128.077019
+Acceptance Rate:                        0.350064
+Replacements:                              17848
+Total Samples:                             50985
+Nested Sampling ln(Z):               -127.941314
+Acceptance Rate:                        0.349045
+Replacements:                              17898
+Total Samples:                             51277
+Nested Sampling ln(Z):               -127.805119
+Acceptance Rate:                        0.348126
+Replacements:                              17948
+Total Samples:                             51556
+Nested Sampling ln(Z):               -127.671175
+Acceptance Rate:                        0.346649
+Replacements:                              17998
+Total Samples:                             51920
+Nested Sampling ln(Z):               -127.540501
+Acceptance Rate:                        0.345370
+Replacements:                              18048
+Total Samples:                             52257
+Nested Sampling ln(Z):               -127.413021
+Acceptance Rate:                        0.344671
+Replacements:                              18098
+Total Samples:                             52508
+Nested Sampling ln(Z):               -127.288426
+Acceptance Rate:                        0.343719
+Replacements:                              18148
+Total Samples:                             52799
+Nested Sampling ln(Z):               -127.168117
+Acceptance Rate:                        0.342822
+Replacements:                              18198
+Total Samples:                             53083
+Nested Sampling ln(Z):               -127.049917
+Acceptance Rate:                        0.342050
+Replacements:                              18248
+Total Samples:                             53349
+Nested Sampling ln(Z):               -126.933412
+Acceptance Rate:                        0.341075
+Replacements:                              18298
+Total Samples:                             53648
+Nested Sampling ln(Z):               -126.817007
+Acceptance Rate:                        0.340585
+Replacements:                              18348
+Total Samples:                             53872
+Nested Sampling ln(Z):               -126.700315
+Acceptance Rate:                        0.339378
+Replacements:                              18398
+Total Samples:                             54211
+Nested Sampling ln(Z):               -126.583921
+Acceptance Rate:                        0.337962
+Replacements:                              18448
+Total Samples:                             54586
+Nested Sampling ln(Z):               -126.469328
+Acceptance Rate:                        0.337106
+Replacements:                              18498
+Total Samples:                             54873
+Nested Sampling ln(Z):               -126.355357
+Acceptance Rate:                        0.336441
+Replacements:                              18548
+Total Samples:                             55130
+Nested Sampling ln(Z):               -126.242371
+Acceptance Rate:                        0.335849
+Replacements:                              18598
+Total Samples:                             55376
+Nested Sampling ln(Z):               -126.127199
+Acceptance Rate:                        0.335257
+Replacements:                              18648
+Total Samples:                             55623
+Nested Sampling ln(Z):               -126.011323
+Acceptance Rate:                        0.334120
+Replacements:                              18698
+Total Samples:                             55962
+Nested Sampling ln(Z):               -125.893609
+Acceptance Rate:                        0.332913
+Replacements:                              18748
+Total Samples:                             56315
+Nested Sampling ln(Z):               -125.775686
+Acceptance Rate:                        0.331675
+Replacements:                              18798
+Total Samples:                             56676
+Nested Sampling ln(Z):               -125.656288
+Acceptance Rate:                        0.330388
+Replacements:                              18848
+Total Samples:                             57048
+Nested Sampling ln(Z):               -125.538104
+Acceptance Rate:                        0.328678
+Replacements:                              18898
+Total Samples:                             57497
+Nested Sampling ln(Z):               -125.421091
+Acceptance Rate:                        0.327599
+Replacements:                              18948
+Total Samples:                             57839
+Nested Sampling ln(Z):               -125.303981
+Acceptance Rate:                        0.326544
+Replacements:                              18998
+Total Samples:                             58179
+Nested Sampling ln(Z):               -125.188974
+Acceptance Rate:                        0.325607
+Replacements:                              19048
+Total Samples:                             58500
+Nested Sampling ln(Z):               -125.077174
+Acceptance Rate:                        0.324360
+Replacements:                              19098
+Total Samples:                             58879
+Nested Sampling ln(Z):               -124.969356
+Acceptance Rate:                        0.323064
+Replacements:                              19148
+Total Samples:                             59270
+Nested Sampling ln(Z):               -124.864851
+Acceptance Rate:                        0.322044
+Replacements:                              19198
+Total Samples:                             59613
+Nested Sampling ln(Z):               -124.763081
+Acceptance Rate:                        0.320560
+Replacements:                              19248
+Total Samples:                             60045
+Nested Sampling ln(Z):               -124.662832
+Acceptance Rate:                        0.319858
+Replacements:                              19298
+Total Samples:                             60333
+Nested Sampling ln(Z):               -124.563277
+Acceptance Rate:                        0.319095
+Replacements:                              19348
+Total Samples:                             60634
+Nested Sampling ln(Z):               -124.464592
+Acceptance Rate:                        0.318271
+Replacements:                              19398
+Total Samples:                             60948
+Nested Sampling ln(Z):               -124.368510
+Acceptance Rate:                        0.317731
+Replacements:                              19448
+Total Samples:                             61209
+Nested Sampling ln(Z):               -124.273469
+Acceptance Rate:                        0.317221
+Replacements:                              19498
+Total Samples:                             61465
+Nested Sampling ln(Z):               -124.179190
+Acceptance Rate:                        0.316459
+Replacements:                              19548
+Total Samples:                             61771
+Nested Sampling ln(Z):               -124.087088
+Acceptance Rate:                        0.315628
+Replacements:                              19598
+Total Samples:                             62092
+Nested Sampling ln(Z):               -123.994289
+Acceptance Rate:                        0.314726
+Replacements:                              19648
+Total Samples:                             62429
+Nested Sampling ln(Z):               -123.900773
+Acceptance Rate:                        0.314153
+Replacements:                              19698
+Total Samples:                             62702
+Nested Sampling ln(Z):               -123.807764
+Acceptance Rate:                        0.312810
+Replacements:                              19748
+Total Samples:                             63131
+Nested Sampling ln(Z):               -123.715949
+Acceptance Rate:                        0.312040
+Replacements:                              19798
+Total Samples:                             63447
+Nested Sampling ln(Z):               -123.625028
+Acceptance Rate:                        0.311126
+Replacements:                              19848
+Total Samples:                             63794
+Nested Sampling ln(Z):               -123.533563
+Acceptance Rate:                        0.310199
+Replacements:                              19898
+Total Samples:                             64146
+Nested Sampling ln(Z):               -123.443530
+Acceptance Rate:                        0.309319
+Replacements:                              19948
+Total Samples:                             64490
+Nested Sampling ln(Z):               -123.354456
+Acceptance Rate:                        0.308117
+Replacements:                              19998
+Total Samples:                             64904
+Nested Sampling ln(Z):               -123.265911
+Acceptance Rate:                        0.307098
+Replacements:                              20048
+Total Samples:                             65282
+Nested Sampling ln(Z):               -123.179351
+Acceptance Rate:                        0.306840
+Replacements:                              20098
+Total Samples:                             65500
+Nested Sampling ln(Z):               -123.093125
+Acceptance Rate:                        0.305959
+Replacements:                              20148
+Total Samples:                             65852
+Nested Sampling ln(Z):               -123.008356
+Acceptance Rate:                        0.305170
+Replacements:                              20198
+Total Samples:                             66186
+Nested Sampling ln(Z):               -122.923616
+Acceptance Rate:                        0.304381
+Replacements:                              20248
+Total Samples:                             66522
+Nested Sampling ln(Z):               -122.838879
+Acceptance Rate:                        0.303463
+Replacements:                              20298
+Total Samples:                             66888
+Nested Sampling ln(Z):               -122.755396
+Acceptance Rate:                        0.302960
+Replacements:                              20348
+Total Samples:                             67164
+Nested Sampling ln(Z):               -122.674438
+Acceptance Rate:                        0.302121
+Replacements:                              20398
+Total Samples:                             67516
+Nested Sampling ln(Z):               -122.594924
+Acceptance Rate:                        0.301633
+Replacements:                              20448
+Total Samples:                             67791
+Nested Sampling ln(Z):               -122.516602
+Acceptance Rate:                        0.301202
+Replacements:                              20498
+Total Samples:                             68054
+Nested Sampling ln(Z):               -122.438599
+Acceptance Rate:                        0.299857
+Replacements:                              20548
+Total Samples:                             68526
+Nested Sampling ln(Z):               -122.360649
+Acceptance Rate:                        0.299237
+Replacements:                              20598
+Total Samples:                             68835
+Nested Sampling ln(Z):               -122.280798
+Acceptance Rate:                        0.298900
+Replacements:                              20648
+Total Samples:                             69080
+Nested Sampling ln(Z):               -122.201444
+Acceptance Rate:                        0.298036
+Replacements:                              20698
+Total Samples:                             69448
+Nested Sampling ln(Z):               -122.122772
+Acceptance Rate:                        0.297254
+Replacements:                              20748
+Total Samples:                             69799
+Nested Sampling ln(Z):               -122.045330
+Acceptance Rate:                        0.296517
+Replacements:                              20798
+Total Samples:                             70141
+Nested Sampling ln(Z):               -121.969079
+Acceptance Rate:                        0.295611
+Replacements:                              20848
+Total Samples:                             70525
+Nested Sampling ln(Z):               -121.892975
+Acceptance Rate:                        0.294695
+Replacements:                              20898
+Total Samples:                             70914
+Nested Sampling ln(Z):               -121.818044
+Acceptance Rate:                        0.293974
+Replacements:                              20948
+Total Samples:                             71258
+Nested Sampling ln(Z):               -121.743756
+Acceptance Rate:                        0.293330
+Replacements:                              20998
+Total Samples:                             71585
+Nested Sampling ln(Z):               -121.669526
+Acceptance Rate:                        0.292830
+Replacements:                              21048
+Total Samples:                             71878
+Nested Sampling ln(Z):               -121.596326
+Acceptance Rate:                        0.292135
+Replacements:                              21098
+Total Samples:                             72220
+Nested Sampling ln(Z):               -121.523539
+Acceptance Rate:                        0.291371
+Replacements:                              21148
+Total Samples:                             72581
+Nested Sampling ln(Z):               -121.450941
+Acceptance Rate:                        0.290690
+Replacements:                              21198
+Total Samples:                             72923
+Nested Sampling ln(Z):               -121.376769
+Acceptance Rate:                        0.289565
+Replacements:                              21248
+Total Samples:                             73379
+Nested Sampling ln(Z):               -121.301936
+Acceptance Rate:                        0.288513
+Replacements:                              21298
+Total Samples:                             73820
+Nested Sampling ln(Z):               -121.229003
+Acceptance Rate:                        0.287946
+Replacements:                              21348
+Total Samples:                             74139
+Nested Sampling ln(Z):               -121.157016
+Acceptance Rate:                        0.287048
+Replacements:                              21398
+Total Samples:                             74545
+Nested Sampling ln(Z):               -121.085279
+Acceptance Rate:                        0.286034
+Replacements:                              21448
+Total Samples:                             74984
+Nested Sampling ln(Z):               -121.013331
+Acceptance Rate:                        0.285085
+Replacements:                              21498
+Total Samples:                             75409
+Nested Sampling ln(Z):               -120.941400
+Acceptance Rate:                        0.284229
+Replacements:                              21548
+Total Samples:                             75812
+Nested Sampling ln(Z):               -120.868230
+Acceptance Rate:                        0.283621
+Replacements:                              21598
+Total Samples:                             76151
+Nested Sampling ln(Z):               -120.795484
+Acceptance Rate:                        0.283010
+Replacements:                              21648
+Total Samples:                             76492
+Nested Sampling ln(Z):               -120.723648
+Acceptance Rate:                        0.282379
+Replacements:                              21698
+Total Samples:                             76840
+Nested Sampling ln(Z):               -120.652810
+Acceptance Rate:                        0.281426
+Replacements:                              21748
+Total Samples:                             77278
+Nested Sampling ln(Z):               -120.581749
+Acceptance Rate:                        0.280566
+Replacements:                              21798
+Total Samples:                             77693
+Nested Sampling ln(Z):               -120.510813
+Acceptance Rate:                        0.279662
+Replacements:                              21848
+Total Samples:                             78123
+Nested Sampling ln(Z):               -120.438929
+Acceptance Rate:                        0.279012
+Replacements:                              21898
+Total Samples:                             78484
+Nested Sampling ln(Z):               -120.368338
+Acceptance Rate:                        0.278425
+Replacements:                              21948
+Total Samples:                             78829
+Nested Sampling ln(Z):               -120.298305
+Acceptance Rate:                        0.277665
+Replacements:                              21998
+Total Samples:                             79225
+Nested Sampling ln(Z):               -120.228897
+Acceptance Rate:                        0.276981
+Replacements:                              22048
+Total Samples:                             79601
+Nested Sampling ln(Z):               -120.159509
+Acceptance Rate:                        0.276197
+Replacements:                              22098
+Total Samples:                             80008
+Nested Sampling ln(Z):               -120.091587
+Acceptance Rate:                        0.275473
+Replacements:                              22148
+Total Samples:                             80400
+Nested Sampling ln(Z):               -120.023809
+Acceptance Rate:                        0.275269
+Replacements:                              22198
+Total Samples:                             80641
+Nested Sampling ln(Z):               -119.955621
+Acceptance Rate:                        0.274467
+Replacements:                              22248
+Total Samples:                             81059
+Nested Sampling ln(Z):               -119.886661
+Acceptance Rate:                        0.273961
+Replacements:                              22298
+Total Samples:                             81391
+Nested Sampling ln(Z):               -119.816661
+Acceptance Rate:                        0.273320
+Replacements:                              22348
+Total Samples:                             81765
+Nested Sampling ln(Z):               -119.747297
+Acceptance Rate:                        0.272734
+Replacements:                              22398
+Total Samples:                             82124
+Nested Sampling ln(Z):               -119.678716
+Acceptance Rate:                        0.271929
+Replacements:                              22448
+Total Samples:                             82551
+Nested Sampling ln(Z):               -119.611201
+Acceptance Rate:                        0.271243
+Replacements:                              22498
+Total Samples:                             82944
+Nested Sampling ln(Z):               -119.544463
+Acceptance Rate:                        0.270506
+Replacements:                              22548
+Total Samples:                             83355
+Nested Sampling ln(Z):               -119.477428
+Acceptance Rate:                        0.269779
+Replacements:                              22598
+Total Samples:                             83765
+Nested Sampling ln(Z):               -119.410117
+Acceptance Rate:                        0.269030
+Replacements:                              22648
+Total Samples:                             84184
+Nested Sampling ln(Z):               -119.341624
+Acceptance Rate:                        0.268507
+Replacements:                              22698
+Total Samples:                             84534
+Nested Sampling ln(Z):               -119.273061
+Acceptance Rate:                        0.267907
+Replacements:                              22748
+Total Samples:                             84910
+Nested Sampling ln(Z):               -119.204600
+Acceptance Rate:                        0.267247
+Replacements:                              22798
+Total Samples:                             85307
+Nested Sampling ln(Z):               -119.136210
+Acceptance Rate:                        0.266387
+Replacements:                              22848
+Total Samples:                             85770
+Nested Sampling ln(Z):               -119.068195
+Acceptance Rate:                        0.265789
+Replacements:                              22898
+Total Samples:                             86151
+Nested Sampling ln(Z):               -118.999974
+Acceptance Rate:                        0.265209
+Replacements:                              22948
+Total Samples:                             86528
+Nested Sampling ln(Z):               -118.931732
+Acceptance Rate:                        0.264603
+Replacements:                              22998
+Total Samples:                             86915
+Nested Sampling ln(Z):               -118.864195
+Acceptance Rate:                        0.264245
+Replacements:                              23048
+Total Samples:                             87222
+Nested Sampling ln(Z):               -118.795784
+Acceptance Rate:                        0.263977
+Replacements:                              23098
+Total Samples:                             87500
+Nested Sampling ln(Z):               -118.728020
+Acceptance Rate:                        0.263246
+Replacements:                              23148
+Total Samples:                             87933
+Nested Sampling ln(Z):               -118.660606
+Acceptance Rate:                        0.262751
+Replacements:                              23198
+Total Samples:                             88289
+Nested Sampling ln(Z):               -118.594475
+Acceptance Rate:                        0.262106
+Replacements:                              23248
+Total Samples:                             88697
+Nested Sampling ln(Z):               -118.529000
+Acceptance Rate:                        0.261814
+Replacements:                              23298
+Total Samples:                             88987
+Nested Sampling ln(Z):               -118.464893
+Acceptance Rate:                        0.261184
+Replacements:                              23348
+Total Samples:                             89393
+Nested Sampling ln(Z):               -118.401739
+Acceptance Rate:                        0.260507
+Replacements:                              23398
+Total Samples:                             89817
+Nested Sampling ln(Z):               -118.338384
+Acceptance Rate:                        0.260071
+Replacements:                              23448
+Total Samples:                             90160
+Nested Sampling ln(Z):               -118.274650
+Acceptance Rate:                        0.259417
+Replacements:                              23498
+Total Samples:                             90580
+Nested Sampling ln(Z):               -118.212163
+Acceptance Rate:                        0.258926
+Replacements:                              23548
+Total Samples:                             90945
+Nested Sampling ln(Z):               -118.150390
+Acceptance Rate:                        0.258571
+Replacements:                              23598
+Total Samples:                             91263
+Nested Sampling ln(Z):               -118.090189
+Acceptance Rate:                        0.257696
+Replacements:                              23648
+Total Samples:                             91767
+Nested Sampling ln(Z):               -118.030395
+Acceptance Rate:                        0.257221
+Replacements:                              23698
+Total Samples:                             92131
+Nested Sampling ln(Z):               -117.970544
+Acceptance Rate:                        0.256846
+Replacements:                              23748
+Total Samples:                             92460
+Nested Sampling ln(Z):               -117.911179
+Acceptance Rate:                        0.256240
+Replacements:                              23798
+Total Samples:                             92874
+Nested Sampling ln(Z):               -117.852147
+Acceptance Rate:                        0.255674
+Replacements:                              23848
+Total Samples:                             93275
+Nested Sampling ln(Z):               -117.793098
+Acceptance Rate:                        0.254885
+Replacements:                              23898
+Total Samples:                             93760
+Nested Sampling ln(Z):               -117.734594
+Acceptance Rate:                        0.254360
+Replacements:                              23948
+Total Samples:                             94150
+Nested Sampling ln(Z):               -117.676641
+Acceptance Rate:                        0.253523
+Replacements:                              23998
+Total Samples:                             94658
+Nested Sampling ln(Z):               -117.619712
+Acceptance Rate:                        0.252921
+Replacements:                              24048
+Total Samples:                             95081
+Nested Sampling ln(Z):               -117.563730
+Acceptance Rate:                        0.252650
+Replacements:                              24098
+Total Samples:                             95381
+Nested Sampling ln(Z):               -117.508214
+Acceptance Rate:                        0.252270
+Replacements:                              24148
+Total Samples:                             95723
+Nested Sampling ln(Z):               -117.452952
+Acceptance Rate:                        0.251643
+Replacements:                              24198
+Total Samples:                             96160
+Nested Sampling ln(Z):               -117.397415
+Acceptance Rate:                        0.250994
+Replacements:                              24248
+Total Samples:                             96608
+Nested Sampling ln(Z):               -117.341885
+Acceptance Rate:                        0.250039
+Replacements:                              24298
+Total Samples:                             97177
+Nested Sampling ln(Z):               -117.286150
+Acceptance Rate:                        0.249641
+Replacements:                              24348
+Total Samples:                             97532
+Nested Sampling ln(Z):               -117.230302
+Acceptance Rate:                        0.249038
+Replacements:                              24398
+Total Samples:                             97969
+Nested Sampling ln(Z):               -117.174126
+Acceptance Rate:                        0.248445
+Replacements:                              24448
+Total Samples:                             98404
+Nested Sampling ln(Z):               -117.118527
+Acceptance Rate:                        0.248179
+Replacements:                              24498
+Total Samples:                             98711
+Nested Sampling ln(Z):               -117.064090
+Acceptance Rate:                        0.247515
+Replacements:                              24548
+Total Samples:                             99178
+Nested Sampling ln(Z):               -117.010504
+Acceptance Rate:                        0.246742
+Replacements:                              24598
+Total Samples:                             99691
+Nested Sampling ln(Z):               -116.957270
+Acceptance Rate:                        0.246290
+Replacements:                              24648
+Total Samples:                            100077
+Nested Sampling ln(Z):               -116.905111
+Acceptance Rate:                        0.245588
+Replacements:                              24698
+Total Samples:                            100567
+Nested Sampling ln(Z):               -116.853317
+Acceptance Rate:                        0.244986
+Replacements:                              24748
+Total Samples:                            101018
+Nested Sampling ln(Z):               -116.801849
+Acceptance Rate:                        0.244200
+Replacements:                              24798
+Total Samples:                            101548
+Nested Sampling ln(Z):               -116.750493
+Acceptance Rate:                        0.243551
+Replacements:                              24848
+Total Samples:                            102024
+Nested Sampling ln(Z):               -116.699639
+Acceptance Rate:                        0.242981
+Replacements:                              24898
+Total Samples:                            102469
+Nested Sampling ln(Z):               -116.649435
+Acceptance Rate:                        0.242392
+Replacements:                              24948
+Total Samples:                            102924
+Nested Sampling ln(Z):               -116.599105
+Acceptance Rate:                        0.242008
+Replacements:                              24998
+Total Samples:                            103294
+Nested Sampling ln(Z):               -116.549349
+Acceptance Rate:                        0.241615
+Replacements:                              25048
+Total Samples:                            103669
+Nested Sampling ln(Z):               -116.500251
+Acceptance Rate:                        0.241223
+Replacements:                              25098
+Total Samples:                            104045
+Nested Sampling ln(Z):               -116.451072
+Acceptance Rate:                        0.240817
+Replacements:                              25148
+Total Samples:                            104428
+Nested Sampling ln(Z):               -116.401785
+Acceptance Rate:                        0.240398
+Replacements:                              25198
+Total Samples:                            104818
+Nested Sampling ln(Z):               -116.353281
+Acceptance Rate:                        0.240039
+Replacements:                              25248
+Total Samples:                            105183
+Nested Sampling ln(Z):               -116.305252
+Acceptance Rate:                        0.239569
+Replacements:                              25298
+Total Samples:                            105598
+Nested Sampling ln(Z):               -116.258153
+Acceptance Rate:                        0.238963
+Replacements:                              25348
+Total Samples:                            106075
+Nested Sampling ln(Z):               -116.211488
+Acceptance Rate:                        0.238322
+Replacements:                              25398
+Total Samples:                            106570
+Nested Sampling ln(Z):               -116.165431
+Acceptance Rate:                        0.237758
+Replacements:                              25448
+Total Samples:                            107033
+Nested Sampling ln(Z):               -116.119583
+Acceptance Rate:                        0.237045
+Replacements:                              25498
+Total Samples:                            107566
+Nested Sampling ln(Z):               -116.074456
+Acceptance Rate:                        0.236569
+Replacements:                              25548
+Total Samples:                            107994
+Nested Sampling ln(Z):               -116.029887
+Acceptance Rate:                        0.236026
+Replacements:                              25598
+Total Samples:                            108454
+Nested Sampling ln(Z):               -115.985695
+Acceptance Rate:                        0.235305
+Replacements:                              25648
+Total Samples:                            108999
+Nested Sampling ln(Z):               -115.941889
+Acceptance Rate:                        0.234683
+Replacements:                              25698
+Total Samples:                            109501
+Nested Sampling ln(Z):               -115.898168
+Acceptance Rate:                        0.233956
+Replacements:                              25748
+Total Samples:                            110055
+Nested Sampling ln(Z):               -115.854212
+Acceptance Rate:                        0.233409
+Replacements:                              25798
+Total Samples:                            110527
+Nested Sampling ln(Z):               -115.810624
+Acceptance Rate:                        0.232840
+Replacements:                              25848
+Total Samples:                            111012
+Nested Sampling ln(Z):               -115.767620
+Acceptance Rate:                        0.232196
+Replacements:                              25898
+Total Samples:                            111535
+Nested Sampling ln(Z):               -115.724518
+Acceptance Rate:                        0.231801
+Replacements:                              25948
+Total Samples:                            111941
+Nested Sampling ln(Z):               -115.682032
+Acceptance Rate:                        0.231373
+Replacements:                              25998
+Total Samples:                            112364
+Nested Sampling ln(Z):               -115.640547
+Acceptance Rate:                        0.230801
+Replacements:                              26048
+Total Samples:                            112859
+Nested Sampling ln(Z):               -115.599486
+Acceptance Rate:                        0.229916
+Replacements:                              26098
+Total Samples:                            113511
+Nested Sampling ln(Z):               -115.559129
+Acceptance Rate:                        0.229507
+Replacements:                              26148
+Total Samples:                            113931
+Nested Sampling ln(Z):               -115.519389
+Acceptance Rate:                        0.228839
+Replacements:                              26198
+Total Samples:                            114482
+Nested Sampling ln(Z):               -115.480338
+Acceptance Rate:                        0.228518
+Replacements:                              26248
+Total Samples:                            114862
+Nested Sampling ln(Z):               -115.441852
+Acceptance Rate:                        0.227755
+Replacements:                              26298
+Total Samples:                            115466
+Nested Sampling ln(Z):               -115.404054
+Acceptance Rate:                        0.227073
+Replacements:                              26348
+Total Samples:                            116033
+Nested Sampling ln(Z):               -115.367149
+Acceptance Rate:                        0.226367
+Replacements:                              26398
+Total Samples:                            116616
+Nested Sampling ln(Z):               -115.330549
+Acceptance Rate:                        0.225930
+Replacements:                              26448
+Total Samples:                            117063
+Nested Sampling ln(Z):               -115.294187
+Acceptance Rate:                        0.225450
+Replacements:                              26498
+Total Samples:                            117534
+Nested Sampling ln(Z):               -115.258409
+Acceptance Rate:                        0.225098
+Replacements:                              26548
+Total Samples:                            117940
+Nested Sampling ln(Z):               -115.223270
+Acceptance Rate:                        0.224636
+Replacements:                              26598
+Total Samples:                            118405
+Nested Sampling ln(Z):               -115.188371
+Acceptance Rate:                        0.224164
+Replacements:                              26648
+Total Samples:                            118877
+Nested Sampling ln(Z):               -115.154037
+Acceptance Rate:                        0.223643
+Replacements:                              26698
+Total Samples:                            119378
+Nested Sampling ln(Z):               -115.119954
+Acceptance Rate:                        0.222993
+Replacements:                              26748
+Total Samples:                            119950
+Nested Sampling ln(Z):               -115.086117
+Acceptance Rate:                        0.222667
+Replacements:                              26798
+Total Samples:                            120350
+Nested Sampling ln(Z):               -115.052658
+Acceptance Rate:                        0.222094
+Replacements:                              26848
+Total Samples:                            120886
+Nested Sampling ln(Z):               -115.019572
+Acceptance Rate:                        0.221629
+Replacements:                              26898
+Total Samples:                            121365
+Nested Sampling ln(Z):               -114.986749
+Acceptance Rate:                        0.221092
+Replacements:                              26948
+Total Samples:                            121886
+Nested Sampling ln(Z):               -114.954095
+Acceptance Rate:                        0.220446
+Replacements:                              26998
+Total Samples:                            122470
+Nested Sampling ln(Z):               -114.921749
+Acceptance Rate:                        0.220121
+Replacements:                              27048
+Total Samples:                            122878
+Nested Sampling ln(Z):               -114.889375
+Acceptance Rate:                        0.219087
+Replacements:                              27098
+Total Samples:                            123686
+Nested Sampling ln(Z):               -114.857229
+Acceptance Rate:                        0.218368
+Replacements:                              27148
+Total Samples:                            124322
+Nested Sampling ln(Z):               -114.825463
+Acceptance Rate:                        0.218004
+Replacements:                              27198
+Total Samples:                            124759
+Nested Sampling ln(Z):               -114.794181
+Acceptance Rate:                        0.217613
+Replacements:                              27248
+Total Samples:                            125213
+Nested Sampling ln(Z):               -114.763455
+Acceptance Rate:                        0.217237
+Replacements:                              27298
+Total Samples:                            125660
+Nested Sampling ln(Z):               -114.733321
+Acceptance Rate:                        0.216898
+Replacements:                              27348
+Total Samples:                            126087
+Nested Sampling ln(Z):               -114.703568
+Acceptance Rate:                        0.216482
+Replacements:                              27398
+Total Samples:                            126560
+Nested Sampling ln(Z):               -114.673911
+Acceptance Rate:                        0.215759
+Replacements:                              27448
+Total Samples:                            127216
+Nested Sampling ln(Z):               -114.644531
+Acceptance Rate:                        0.215146
+Replacements:                              27498
+Total Samples:                            127811
+Nested Sampling ln(Z):               -114.615158
+Acceptance Rate:                        0.214751
+Replacements:                              27548
+Total Samples:                            128279
+Nested Sampling ln(Z):               -114.586133
+Acceptance Rate:                        0.214264
+Replacements:                              27598
+Total Samples:                            128804
+Nested Sampling ln(Z):               -114.557450
+Acceptance Rate:                        0.213625
+Replacements:                              27648
+Total Samples:                            129423
+Nested Sampling ln(Z):               -114.528910
+Acceptance Rate:                        0.212950
+Replacements:                              27698
+Total Samples:                            130068
+Nested Sampling ln(Z):               -114.500892
+Acceptance Rate:                        0.212620
+Replacements:                              27748
+Total Samples:                            130505
+Nested Sampling ln(Z):               -114.473279
+Acceptance Rate:                        0.211996
+Replacements:                              27798
+Total Samples:                            131125
+Nested Sampling ln(Z):               -114.445845
+Acceptance Rate:                        0.211250
+Replacements:                              27848
+Total Samples:                            131825
+Nested Sampling ln(Z):               -114.418469
+Acceptance Rate:                        0.210882
+Replacements:                              27898
+Total Samples:                            132292
+Nested Sampling ln(Z):               -114.391349
+Acceptance Rate:                        0.210531
+Replacements:                              27948
+Total Samples:                            132750
+Nested Sampling ln(Z):               -114.364446
+Acceptance Rate:                        0.209828
+Replacements:                              27998
+Total Samples:                            133433
+Nested Sampling ln(Z):               -114.337669
+Acceptance Rate:                        0.209473
+Replacements:                              28048
+Total Samples:                            133898
+Nested Sampling ln(Z):               -114.311322
+Acceptance Rate:                        0.209094
+Replacements:                              28098
+Total Samples:                            134380
+Nested Sampling ln(Z):               -114.285296
+Acceptance Rate:                        0.208545
+Replacements:                              28148
+Total Samples:                            134973
+Nested Sampling ln(Z):               -114.259496
+Acceptance Rate:                        0.207935
+Replacements:                              28198
+Total Samples:                            135610
+Nested Sampling ln(Z):               -114.233981
+Acceptance Rate:                        0.207491
+Replacements:                              28248
+Total Samples:                            136141
+Nested Sampling ln(Z):               -114.208661
+Acceptance Rate:                        0.206943
+Replacements:                              28298
+Total Samples:                            136743
+Nested Sampling ln(Z):               -114.183735
+Acceptance Rate:                        0.206353
+Replacements:                              28348
+Total Samples:                            137376
+Nested Sampling ln(Z):               -114.159241
+Acceptance Rate:                        0.205748
+Replacements:                              28398
+Total Samples:                            138023
+Nested Sampling ln(Z):               -114.134874
+Acceptance Rate:                        0.205407
+Replacements:                              28448
+Total Samples:                            138496
+Nested Sampling ln(Z):               -114.110764
+Acceptance Rate:                        0.204907
+Replacements:                              28498
+Total Samples:                            139078
+Nested Sampling ln(Z):               -114.086900
+Acceptance Rate:                        0.204400
+Replacements:                              28548
+Total Samples:                            139667
+Nested Sampling ln(Z):               -114.063348
+Acceptance Rate:                        0.203816
+Replacements:                              28598
+Total Samples:                            140313
+Nested Sampling ln(Z):               -114.040102
+Acceptance Rate:                        0.203221
+Replacements:                              28648
+Total Samples:                            140970
+Nested Sampling ln(Z):               -114.017095
+Acceptance Rate:                        0.202582
+Replacements:                              28698
+Total Samples:                            141661
+Nested Sampling ln(Z):               -113.994360
+Acceptance Rate:                        0.202238
+Replacements:                              28748
+Total Samples:                            142149
+Nested Sampling ln(Z):               -113.971892
+Acceptance Rate:                        0.201814
+Replacements:                              28798
+Total Samples:                            142696
+Nested Sampling ln(Z):               -113.949615
+Acceptance Rate:                        0.201167
+Replacements:                              28848
+Total Samples:                            143403
+Nested Sampling ln(Z):               -113.927591
+Acceptance Rate:                        0.200780
+Replacements:                              28898
+Total Samples:                            143929
+Nested Sampling ln(Z):               -113.905843
+Acceptance Rate:                        0.200243
+Replacements:                              28948
+Total Samples:                            144564
+Nested Sampling ln(Z):               -113.884452
+Acceptance Rate:                        0.199795
+Replacements:                              28998
+Total Samples:                            145139
+Nested Sampling ln(Z):               -113.863265
+Acceptance Rate:                        0.199341
+Replacements:                              29048
+Total Samples:                            145720
+Nested Sampling ln(Z):               -113.842396
+Acceptance Rate:                        0.198739
+Replacements:                              29098
+Total Samples:                            146413
+Nested Sampling ln(Z):               -113.821853
+Acceptance Rate:                        0.198345
+Replacements:                              29148
+Total Samples:                            146956
+Nested Sampling ln(Z):               -113.801441
+Acceptance Rate:                        0.197979
+Replacements:                              29198
+Total Samples:                            147480
+Nested Sampling ln(Z):               -113.781172
+Acceptance Rate:                        0.197492
+Replacements:                              29248
+Total Samples:                            148097
+Nested Sampling ln(Z):               -113.761157
+Acceptance Rate:                        0.196957
+Replacements:                              29298
+Total Samples:                            148753
+Nested Sampling ln(Z):               -113.741487
+Acceptance Rate:                        0.196602
+Replacements:                              29348
+Total Samples:                            149276
+Nested Sampling ln(Z):               -113.722052
+Acceptance Rate:                        0.196083
+Replacements:                              29398
+Total Samples:                            149926
+Nested Sampling ln(Z):               -113.702870
+Acceptance Rate:                        0.195613
+Replacements:                              29448
+Total Samples:                            150542
+Nested Sampling ln(Z):               -113.683834
+Acceptance Rate:                        0.195153
+Replacements:                              29498
+Total Samples:                            151153
+Nested Sampling ln(Z):               -113.665011
+Acceptance Rate:                        0.194809
+Replacements:                              29548
+Total Samples:                            151677
+Nested Sampling ln(Z):               -113.646347
+Acceptance Rate:                        0.194265
+Replacements:                              29598
+Total Samples:                            152359
+Nested Sampling ln(Z):               -113.627901
+Acceptance Rate:                        0.193500
+Replacements:                              29648
+Total Samples:                            153220
+Nested Sampling ln(Z):               -113.609687
+Acceptance Rate:                        0.193038
+Replacements:                              29698
+Total Samples:                            153845
+Nested Sampling ln(Z):               -113.591662
+Acceptance Rate:                        0.192576
+Replacements:                              29748
+Total Samples:                            154474
+Nested Sampling ln(Z):               -113.573853
+Acceptance Rate:                        0.192296
+Replacements:                              29798
+Total Samples:                            154959
+Nested Sampling ln(Z):               -113.556292
+Acceptance Rate:                        0.191688
+Replacements:                              29848
+Total Samples:                            155711
+Nested Sampling ln(Z):               -113.539016
+Acceptance Rate:                        0.191106
+Replacements:                              29898
+Total Samples:                            156447
+Nested Sampling ln(Z):               -113.522054
+Acceptance Rate:                        0.190724
+Replacements:                              29948
+Total Samples:                            157023
+Nested Sampling ln(Z):               -113.505331
+Acceptance Rate:                        0.189970
+Replacements:                              29998
+Total Samples:                            157909
+Nested Sampling ln(Z):               -113.488723
+Acceptance Rate:                        0.189600
+Replacements:                              30048
+Total Samples:                            158481
+Nested Sampling ln(Z):               -113.472302
+Acceptance Rate:                        0.189173
+Replacements:                              30098
+Total Samples:                            159103
+Nested Sampling ln(Z):               -113.455998
+Acceptance Rate:                        0.188667
+Replacements:                              30148
+Total Samples:                            159795
+Nested Sampling ln(Z):               -113.439771
+Acceptance Rate:                        0.188385
+Replacements:                              30198
+Total Samples:                            160299
+Nested Sampling ln(Z):               -113.423509
+Acceptance Rate:                        0.188113
+Replacements:                              30248
+Total Samples:                            160797
+Nested Sampling ln(Z):               -113.407288
+Acceptance Rate:                        0.187644
+Replacements:                              30298
+Total Samples:                            161465
+Nested Sampling ln(Z):               -113.391210
+Acceptance Rate:                        0.187090
+Replacements:                              30348
+Total Samples:                            162211
+Nested Sampling ln(Z):               -113.375272
+Acceptance Rate:                        0.186652
+Replacements:                              30398
+Total Samples:                            162859
+Nested Sampling ln(Z):               -113.359451
+Acceptance Rate:                        0.186238
+Replacements:                              30448
+Total Samples:                            163490
+Nested Sampling ln(Z):               -113.343681
+Acceptance Rate:                        0.185995
+Replacements:                              30498
+Total Samples:                            163972
+Nested Sampling ln(Z):               -113.328001
+Acceptance Rate:                        0.185734
+Replacements:                              30548
+Total Samples:                            164472
+Nested Sampling ln(Z):               -113.312350
+Acceptance Rate:                        0.185418
+Replacements:                              30598
+Total Samples:                            165022
+Nested Sampling ln(Z):               -113.296822
+Acceptance Rate:                        0.185114
+Replacements:                              30648
+Total Samples:                            165563
+Nested Sampling ln(Z):               -113.281437
+Acceptance Rate:                        0.184621
+Replacements:                              30698
+Total Samples:                            166276
+Nested Sampling ln(Z):               -113.266095
+Acceptance Rate:                        0.184432
+Replacements:                              30748
+Total Samples:                            166717
+Nested Sampling ln(Z):               -113.250820
+Acceptance Rate:                        0.183966
+Replacements:                              30798
+Total Samples:                            167411
+Nested Sampling ln(Z):               -113.235637
+Acceptance Rate:                        0.183539
+Replacements:                              30848
+Total Samples:                            168073
+Nested Sampling ln(Z):               -113.220553
+Acceptance Rate:                        0.183280
+Replacements:                              30898
+Total Samples:                            168584
+Nested Sampling ln(Z):               -113.205510
+Acceptance Rate:                        0.182799
+Replacements:                              30948
+Total Samples:                            169301
+Nested Sampling ln(Z):               -113.190350
+Acceptance Rate:                        0.182469
+Replacements:                              30998
+Total Samples:                            169881
+Nested Sampling ln(Z):               -113.175149
+Acceptance Rate:                        0.182022
+Replacements:                              31048
+Total Samples:                            170573
+Nested Sampling ln(Z):               -113.160074
+Acceptance Rate:                        0.181520
+Replacements:                              31098
+Total Samples:                            171320
+Nested Sampling ln(Z):               -113.144996
+Acceptance Rate:                        0.181131
+Replacements:                              31148
+Total Samples:                            171964
+Nested Sampling ln(Z):               -113.129865
+Acceptance Rate:                        0.180736
+Replacements:                              31198
+Total Samples:                            172616
+Nested Sampling ln(Z):               -113.114702
+Acceptance Rate:                        0.180224
+Replacements:                              31248
+Total Samples:                            173384
+Nested Sampling ln(Z):               -113.099537
+Acceptance Rate:                        0.179864
+Replacements:                              31298
+Total Samples:                            174009
+Nested Sampling ln(Z):               -113.084330
+Acceptance Rate:                        0.179499
+Replacements:                              31348
+Total Samples:                            174642
+Nested Sampling ln(Z):               -113.069061
+Acceptance Rate:                        0.179253
+Replacements:                              31398
+Total Samples:                            175160
+Nested Sampling ln(Z):               -113.053895
+Acceptance Rate:                        0.178795
+Replacements:                              31448
+Total Samples:                            175889
+Nested Sampling ln(Z):               -113.038800
+Acceptance Rate:                        0.178545
+Replacements:                              31498
+Total Samples:                            176415
+Nested Sampling ln(Z):               -113.023700
+Acceptance Rate:                        0.178045
+Replacements:                              31548
+Total Samples:                            177191
+Nested Sampling ln(Z):               -113.008564
+Acceptance Rate:                        0.177739
+Replacements:                              31598
+Total Samples:                            177778
+Nested Sampling ln(Z):               -112.993465
+Acceptance Rate:                        0.177507
+Replacements:                              31648
+Total Samples:                            178292
+Nested Sampling ln(Z):               -112.978293
+Acceptance Rate:                        0.177201
+Replacements:                              31698
+Total Samples:                            178882
+Nested Sampling ln(Z):               -112.963049
+Acceptance Rate:                        0.176846
+Replacements:                              31748
+Total Samples:                            179523
+Nested Sampling ln(Z):               -112.947841
+Acceptance Rate:                        0.176408
+Replacements:                              31798
+Total Samples:                            180253
+Nested Sampling ln(Z):               -112.932478
+Acceptance Rate:                        0.176055
+Replacements:                              31848
+Total Samples:                            180898
+Nested Sampling ln(Z):               -112.916986
+Acceptance Rate:                        0.175815
+Replacements:                              31898
+Total Samples:                            181429
+Nested Sampling ln(Z):               -112.901531
+Acceptance Rate:                        0.175669
+Replacements:                              31948
+Total Samples:                            181865
+Nested Sampling ln(Z):               -112.886120
+Acceptance Rate:                        0.175331
+Replacements:                              31998
+Total Samples:                            182501
+Nested Sampling ln(Z):               -112.870639
+Acceptance Rate:                        0.174977
+Replacements:                              32048
+Total Samples:                            183156
+Nested Sampling ln(Z):               -112.855051
+Acceptance Rate:                        0.174636
+Replacements:                              32098
+Total Samples:                            183799
+Nested Sampling ln(Z):               -112.839427
+Acceptance Rate:                        0.174393
+Replacements:                              32148
+Total Samples:                            184342
+Nested Sampling ln(Z):               -112.823739
+Acceptance Rate:                        0.174130
+Replacements:                              32198
+Total Samples:                            184908
+Nested Sampling ln(Z):               -112.808089
+Acceptance Rate:                        0.173782
+Replacements:                              32248
+Total Samples:                            185566
+Nested Sampling ln(Z):               -112.792329
+Acceptance Rate:                        0.173433
+Replacements:                              32298
+Total Samples:                            186227
+Nested Sampling ln(Z):               -112.776534
+Acceptance Rate:                        0.173237
+Replacements:                              32348
+Total Samples:                            186727
+Nested Sampling ln(Z):               -112.760679
+Acceptance Rate:                        0.173026
+Replacements:                              32398
+Total Samples:                            187244
+Nested Sampling ln(Z):               -112.744739
+Acceptance Rate:                        0.172700
+Replacements:                              32448
+Total Samples:                            187886
+Nested Sampling ln(Z):               -112.728654
+Acceptance Rate:                        0.172385
+Replacements:                              32498
+Total Samples:                            188520
+Nested Sampling ln(Z):               -112.712423
+Acceptance Rate:                        0.172011
+Replacements:                              32548
+Total Samples:                            189220
+Nested Sampling ln(Z):               -112.696185
+Acceptance Rate:                        0.171804
+Replacements:                              32598
+Total Samples:                            189740
+Nested Sampling ln(Z):               -112.679935
+Acceptance Rate:                        0.171471
+Replacements:                              32648
+Total Samples:                            190399
+Nested Sampling ln(Z):               -112.663587
+Acceptance Rate:                        0.171175
+Replacements:                              32698
+Total Samples:                            191021
+Nested Sampling ln(Z):               -112.647113
+Acceptance Rate:                        0.170946
+Replacements:                              32748
+Total Samples:                            191569
+Nested Sampling ln(Z):               -112.630531
+Acceptance Rate:                        0.170733
+Replacements:                              32798
+Total Samples:                            192101
+Nested Sampling ln(Z):               -112.613863
+Acceptance Rate:                        0.170488
+Replacements:                              32848
+Total Samples:                            192671
+Nested Sampling ln(Z):               -112.597222
+Acceptance Rate:                        0.170312
+Replacements:                              32898
+Total Samples:                            193163
+Nested Sampling ln(Z):               -112.580635
+Acceptance Rate:                        0.170155
+Replacements:                              32948
+Total Samples:                            193635
+Nested Sampling ln(Z):               -112.564059
+Acceptance Rate:                        0.169918
+Replacements:                              32998
+Total Samples:                            194200
+Nested Sampling ln(Z):               -112.547481
+Acceptance Rate:                        0.169770
+Replacements:                              33048
+Total Samples:                            194663
+Nested Sampling ln(Z):               -112.530884
+Acceptance Rate:                        0.169383
+Replacements:                              33098
+Total Samples:                            195403
+Nested Sampling ln(Z):               -112.514234
+Acceptance Rate:                        0.169258
+Replacements:                              33148
+Total Samples:                            195843
+Nested Sampling ln(Z):               -112.497462
+Acceptance Rate:                        0.168931
+Replacements:                              33198
+Total Samples:                            196518
+Nested Sampling ln(Z):               -112.480599
+Acceptance Rate:                        0.168647
+Replacements:                              33248
+Total Samples:                            197145
+Nested Sampling ln(Z):               -112.463740
+Acceptance Rate:                        0.168324
+Replacements:                              33298
+Total Samples:                            197821
+Nested Sampling ln(Z):               -112.446869
+Acceptance Rate:                        0.168004
+Replacements:                              33348
+Total Samples:                            198495
+Nested Sampling ln(Z):               -112.429880
+Acceptance Rate:                        0.167887
+Replacements:                              33398
+Total Samples:                            198932
+Nested Sampling ln(Z):               -112.412788
+Acceptance Rate:                        0.167682
+Replacements:                              33448
+Total Samples:                            199473
+Nested Sampling ln(Z):               -112.395572
+Acceptance Rate:                        0.167416
+Replacements:                              33498
+Total Samples:                            200088
+Nested Sampling ln(Z):               -112.378349
+Acceptance Rate:                        0.166998
+Replacements:                              33548
+Total Samples:                            200889
+Nested Sampling ln(Z):               -112.361152
+Acceptance Rate:                        0.166594
+Replacements:                              33598
+Total Samples:                            201676
+Nested Sampling ln(Z):               -112.343819
+Acceptance Rate:                        0.166215
+Replacements:                              33648
+Total Samples:                            202436
+Nested Sampling ln(Z):               -112.326403
+Acceptance Rate:                        0.165977
+Replacements:                              33698
+Total Samples:                            203028
+Nested Sampling ln(Z):               -112.308926
+Acceptance Rate:                        0.165755
+Replacements:                              33748
+Total Samples:                            203602
+Nested Sampling ln(Z):               -112.291406
+Acceptance Rate:                        0.165512
+Replacements:                              33798
+Total Samples:                            204203
+Nested Sampling ln(Z):               -112.273880
+Acceptance Rate:                        0.165146
+Replacements:                              33848
+Total Samples:                            204958
+Nested Sampling ln(Z):               -112.256273
+Acceptance Rate:                        0.164903
+Replacements:                              33898
+Total Samples:                            205563
+Nested Sampling ln(Z):               -112.238520
+Acceptance Rate:                        0.164668
+Replacements:                              33948
+Total Samples:                            206160
+Nested Sampling ln(Z):               -112.220687
+Acceptance Rate:                        0.164454
+Replacements:                              33998
+Total Samples:                            206733
+Nested Sampling ln(Z):               -112.202834
+Acceptance Rate:                        0.164179
+Replacements:                              34048
+Total Samples:                            207383
+Nested Sampling ln(Z):               -112.185051
+Acceptance Rate:                        0.163940
+Replacements:                              34098
+Total Samples:                            207991
+Nested Sampling ln(Z):               -112.167215
+Acceptance Rate:                        0.163669
+Replacements:                              34148
+Total Samples:                            208640
+Nested Sampling ln(Z):               -112.149402
+Acceptance Rate:                        0.163485
+Replacements:                              34198
+Total Samples:                            209181
+Nested Sampling ln(Z):               -112.131659
+Acceptance Rate:                        0.163170
+Replacements:                              34248
+Total Samples:                            209892
+Nested Sampling ln(Z):               -112.113837
+Acceptance Rate:                        0.162982
+Replacements:                              34298
+Total Samples:                            210440
+Nested Sampling ln(Z):               -112.095937
+Acceptance Rate:                        0.162700
+Replacements:                              34348
+Total Samples:                            211113
+Nested Sampling ln(Z):               -112.078068
+Acceptance Rate:                        0.162446
+Replacements:                              34398
+Total Samples:                            211751
+Nested Sampling ln(Z):               -112.060402
+Acceptance Rate:                        0.162107
+Replacements:                              34448
+Total Samples:                            212501
+Nested Sampling ln(Z):               -112.042823
+Acceptance Rate:                        0.161783
+Replacements:                              34498
+Total Samples:                            213236
+Nested Sampling ln(Z):               -112.025268
+Acceptance Rate:                        0.161510
+Replacements:                              34548
+Total Samples:                            213906
+Nested Sampling ln(Z):               -112.007840
+Acceptance Rate:                        0.161332
+Replacements:                              34598
+Total Samples:                            214452
+Nested Sampling ln(Z):               -111.990398
+Acceptance Rate:                        0.160926
+Replacements:                              34648
+Total Samples:                            215304
+Nested Sampling ln(Z):               -111.972921
+Acceptance Rate:                        0.160582
+Replacements:                              34698
+Total Samples:                            216077
+Nested Sampling ln(Z):               -111.955575
+Acceptance Rate:                        0.160331
+Replacements:                              34748
+Total Samples:                            216727
+Nested Sampling ln(Z):               -111.938319
+Acceptance Rate:                        0.160124
+Replacements:                              34798
+Total Samples:                            217319
+Nested Sampling ln(Z):               -111.921045
+Acceptance Rate:                        0.159868
+Replacements:                              34848
+Total Samples:                            217980
+Nested Sampling ln(Z):               -111.903730
+Acceptance Rate:                        0.159561
+Replacements:                              34898
+Total Samples:                            218712
+Nested Sampling ln(Z):               -111.886429
+Acceptance Rate:                        0.159280
+Replacements:                              34948
+Total Samples:                            219413
+Nested Sampling ln(Z):               -111.869170
+Acceptance Rate:                        0.158962
+Replacements:                              34998
+Total Samples:                            220166
+Nested Sampling ln(Z):               -111.852065
+Acceptance Rate:                        0.158436
+Replacements:                              35048
+Total Samples:                            221212
+Nested Sampling ln(Z):               -111.835026
+Acceptance Rate:                        0.158160
+Replacements:                              35098
+Total Samples:                            221915
+Nested Sampling ln(Z):               -111.817890
+Acceptance Rate:                        0.157959
+Replacements:                              35148
+Total Samples:                            222514
+Nested Sampling ln(Z):               -111.800907
+Acceptance Rate:                        0.157618
+Replacements:                              35198
+Total Samples:                            223312
+Nested Sampling ln(Z):               -111.783981
+Acceptance Rate:                        0.157377
+Replacements:                              35248
+Total Samples:                            223972
+Nested Sampling ln(Z):               -111.767237
+Acceptance Rate:                        0.157127
+Replacements:                              35298
+Total Samples:                            224646
+Nested Sampling ln(Z):               -111.750518
+Acceptance Rate:                        0.156781
+Replacements:                              35348
+Total Samples:                            225461
+Nested Sampling ln(Z):               -111.733822
+Acceptance Rate:                        0.156414
+Replacements:                              35398
+Total Samples:                            226310
+Nested Sampling ln(Z):               -111.717247
+Acceptance Rate:                        0.156191
+Replacements:                              35448
+Total Samples:                            226953
+Nested Sampling ln(Z):               -111.700718
+Acceptance Rate:                        0.155948
+Replacements:                              35498
+Total Samples:                            227627
+Nested Sampling ln(Z):               -111.684304
+Acceptance Rate:                        0.155637
+Replacements:                              35548
+Total Samples:                            228403
+Nested Sampling ln(Z):               -111.667990
+Acceptance Rate:                        0.155297
+Replacements:                              35598
+Total Samples:                            229225
+Nested Sampling ln(Z):               -111.651767
+Acceptance Rate:                        0.155080
+Replacements:                              35648
+Total Samples:                            229869
+Nested Sampling ln(Z):               -111.635652
+Acceptance Rate:                        0.154806
+Replacements:                              35698
+Total Samples:                            230599
+Nested Sampling ln(Z):               -111.619706
+Acceptance Rate:                        0.154655
+Replacements:                              35748
+Total Samples:                            231146
+Nested Sampling ln(Z):               -111.603926
+Acceptance Rate:                        0.154215
+Replacements:                              35798
+Total Samples:                            232130
+Nested Sampling ln(Z):               -111.588187
+Acceptance Rate:                        0.153895
+Replacements:                              35848
+Total Samples:                            232938
+Nested Sampling ln(Z):               -111.572559
+Acceptance Rate:                        0.153669
+Replacements:                              35898
+Total Samples:                            233606
+Nested Sampling ln(Z):               -111.556989
+Acceptance Rate:                        0.153349
+Replacements:                              35948
+Total Samples:                            234419
+Nested Sampling ln(Z):               -111.541557
+Acceptance Rate:                        0.153072
+Replacements:                              35998
+Total Samples:                            235170
+Nested Sampling ln(Z):               -111.526219
+Acceptance Rate:                        0.152790
+Replacements:                              36048
+Total Samples:                            235932
+Nested Sampling ln(Z):               -111.510935
+Acceptance Rate:                        0.152510
+Replacements:                              36098
+Total Samples:                            236692
+Nested Sampling ln(Z):               -111.495756
+Acceptance Rate:                        0.152165
+Replacements:                              36148
+Total Samples:                            237558
+Nested Sampling ln(Z):               -111.480717
+Acceptance Rate:                        0.152032
+Replacements:                              36198
+Total Samples:                            238094
+Nested Sampling ln(Z):               -111.465773
+Acceptance Rate:                        0.151690
+Replacements:                              36248
+Total Samples:                            238961
+Nested Sampling ln(Z):               -111.450888
+Acceptance Rate:                        0.151502
+Replacements:                              36298
+Total Samples:                            239587
+Nested Sampling ln(Z):               -111.436164
+Acceptance Rate:                        0.151316
+Replacements:                              36348
+Total Samples:                            240212
+Nested Sampling ln(Z):               -111.421534
+Acceptance Rate:                        0.151034
+Replacements:                              36398
+Total Samples:                            240992
+Nested Sampling ln(Z):               -111.406979
+Acceptance Rate:                        0.150808
+Replacements:                              36448
+Total Samples:                            241684
+Nested Sampling ln(Z):               -111.392463
+Acceptance Rate:                        0.150595
+Replacements:                              36498
+Total Samples:                            242358
+Nested Sampling ln(Z):               -111.377966
+Acceptance Rate:                        0.150275
+Replacements:                              36548
+Total Samples:                            243208
+Nested Sampling ln(Z):               -111.363444
+Acceptance Rate:                        0.150041
+Replacements:                              36598
+Total Samples:                            243920
+Nested Sampling ln(Z):               -111.348914
+Acceptance Rate:                        0.149717
+Replacements:                              36648
+Total Samples:                            244782
+Nested Sampling ln(Z):               -111.334418
+Acceptance Rate:                        0.149486
+Replacements:                              36698
+Total Samples:                            245494
+Nested Sampling ln(Z):               -111.320056
+Acceptance Rate:                        0.149131
+Replacements:                              36748
+Total Samples:                            246414
+Nested Sampling ln(Z):               -111.305744
+Acceptance Rate:                        0.148762
+Replacements:                              36798
+Total Samples:                            247361
+Nested Sampling ln(Z):               -111.291449
+Acceptance Rate:                        0.148344
+Replacements:                              36848
+Total Samples:                            248395
+Nested Sampling ln(Z):               -111.277186
+Acceptance Rate:                        0.148015
+Replacements:                              36898
+Total Samples:                            249285
+Nested Sampling ln(Z):               -111.263061
+Acceptance Rate:                        0.147670
+Replacements:                              36948
+Total Samples:                            250207
+Nested Sampling ln(Z):               -111.249040
+Acceptance Rate:                        0.147382
+Replacements:                              36998
+Total Samples:                            251035
+Nested Sampling ln(Z):               -111.235140
+Acceptance Rate:                        0.146963
+Replacements:                              37048
+Total Samples:                            252091
+Nested Sampling ln(Z):               -111.221412
+Acceptance Rate:                        0.146817
+Replacements:                              37098
+Total Samples:                            252682
+Nested Sampling ln(Z):               -111.207829
+Acceptance Rate:                        0.146484
+Replacements:                              37148
+Total Samples:                            253597
+Nested Sampling ln(Z):               -111.194368
+Acceptance Rate:                        0.146201
+Replacements:                              37198
+Total Samples:                            254431
+Nested Sampling ln(Z):               -111.180951
+Acceptance Rate:                        0.146010
+Replacements:                              37248
+Total Samples:                            255105
+Nested Sampling ln(Z):               -111.167644
+Acceptance Rate:                        0.145825
+Replacements:                              37298
+Total Samples:                            255773
+Nested Sampling ln(Z):               -111.154467
+Acceptance Rate:                        0.145496
+Replacements:                              37348
+Total Samples:                            256695
+Nested Sampling ln(Z):               -111.141321
+Acceptance Rate:                        0.145304
+Replacements:                              37398
+Total Samples:                            257377
+Nested Sampling ln(Z):               -111.128222
+Acceptance Rate:                        0.145045
+Replacements:                              37448
+Total Samples:                            258182
+Nested Sampling ln(Z):               -111.115202
+Acceptance Rate:                        0.144850
+Replacements:                              37498
+Total Samples:                            258875
+Nested Sampling ln(Z):               -111.102295
+Acceptance Rate:                        0.144533
+Replacements:                              37548
+Total Samples:                            259789
+Nested Sampling ln(Z):               -111.089526
+Acceptance Rate:                        0.144244
+Replacements:                              37598
+Total Samples:                            260656
+Nested Sampling ln(Z):               -111.076916
+Acceptance Rate:                        0.143944
+Replacements:                              37648
+Total Samples:                            261547
+Nested Sampling ln(Z):               -111.064492
+Acceptance Rate:                        0.143686
+Replacements:                              37698
+Total Samples:                            262363
+Nested Sampling ln(Z):               -111.052239
+Acceptance Rate:                        0.143430
+Replacements:                              37748
+Total Samples:                            263180
+Nested Sampling ln(Z):               -111.040065
+Acceptance Rate:                        0.143110
+Replacements:                              37798
+Total Samples:                            264118
+Nested Sampling ln(Z):               -111.027977
+Acceptance Rate:                        0.142893
+Replacements:                              37848
+Total Samples:                            264870
+Nested Sampling ln(Z):               -111.016002
+Acceptance Rate:                        0.142685
+Replacements:                              37898
+Total Samples:                            265606
+Nested Sampling ln(Z):               -111.004170
+Acceptance Rate:                        0.142508
+Replacements:                              37948
+Total Samples:                            266286
+Nested Sampling ln(Z):               -110.992442
+Acceptance Rate:                        0.142212
+Replacements:                              37998
+Total Samples:                            267192
+Nested Sampling ln(Z):               -110.980839
+Acceptance Rate:                        0.142075
+Replacements:                              38048
+Total Samples:                            267802
+Nested Sampling ln(Z):               -110.969297
+Acceptance Rate:                        0.141796
+Replacements:                              38098
+Total Samples:                            268681
+Nested Sampling ln(Z):               -110.957873
+Acceptance Rate:                        0.141423
+Replacements:                              38148
+Total Samples:                            269744
+Nested Sampling ln(Z):               -110.946581
+Acceptance Rate:                        0.141226
+Replacements:                              38198
+Total Samples:                            270474
+Nested Sampling ln(Z):               -110.935388
+Acceptance Rate:                        0.140974
+Replacements:                              38248
+Total Samples:                            271313
+Nested Sampling ln(Z):               -110.924244
+Acceptance Rate:                        0.140816
+Replacements:                              38298
+Total Samples:                            271972
+Nested Sampling ln(Z):               -110.913152
+Acceptance Rate:                        0.140538
+Replacements:                              38348
+Total Samples:                            272865
+Nested Sampling ln(Z):               -110.902150
+Acceptance Rate:                        0.140294
+Replacements:                              38398
+Total Samples:                            273697
+Nested Sampling ln(Z):               -110.891243
+Acceptance Rate:                        0.140045
+Replacements:                              38448
+Total Samples:                            274540
+Nested Sampling ln(Z):               -110.880452
+Acceptance Rate:                        0.139815
+Replacements:                              38498
+Total Samples:                            275349
+Nested Sampling ln(Z):               -110.869776
+Acceptance Rate:                        0.139584
+Replacements:                              38548
+Total Samples:                            276163
+Nested Sampling ln(Z):               -110.859229
+Acceptance Rate:                        0.139289
+Replacements:                              38598
+Total Samples:                            277108
+Nested Sampling ln(Z):               -110.848839
+Acceptance Rate:                        0.139054
+Replacements:                              38648
+Total Samples:                            277936
+Nested Sampling ln(Z):               -110.838577
+Acceptance Rate:                        0.138889
+Replacements:                              38698
+Total Samples:                            278625
+Nested Sampling ln(Z):               -110.828454
+Acceptance Rate:                        0.138613
+Replacements:                              38748
+Total Samples:                            279540
+Nested Sampling ln(Z):               -110.818482
+Acceptance Rate:                        0.138368
+Replacements:                              38798
+Total Samples:                            280397
+Nested Sampling ln(Z):               -110.808656
+Acceptance Rate:                        0.138077
+Replacements:                              38848
+Total Samples:                            281351
+Nested Sampling ln(Z):               -110.798977
+Acceptance Rate:                        0.137963
+Replacements:                              38898
+Total Samples:                            281945
+Nested Sampling ln(Z):               -110.789375
+Acceptance Rate:                        0.137715
+Replacements:                              38948
+Total Samples:                            282816
+Nested Sampling ln(Z):               -110.779852
+Acceptance Rate:                        0.137610
+Replacements:                              38998
+Total Samples:                            283395
+Nested Sampling ln(Z):               -110.770400
+Acceptance Rate:                        0.137420
+Replacements:                              39048
+Total Samples:                            284151
+Nested Sampling ln(Z):               -110.761070
+Acceptance Rate:                        0.137228
+Replacements:                              39098
+Total Samples:                            284912
+Nested Sampling ln(Z):               -110.751820
+Acceptance Rate:                        0.136947
+Replacements:                              39148
+Total Samples:                            285863
+Nested Sampling ln(Z):               -110.742667
+Acceptance Rate:                        0.136630
+Replacements:                              39198
+Total Samples:                            286892
+Nested Sampling ln(Z):               -110.733613
+Acceptance Rate:                        0.136342
+Replacements:                              39248
+Total Samples:                            287865
+Nested Sampling ln(Z):               -110.724630
+Acceptance Rate:                        0.136121
+Replacements:                              39298
+Total Samples:                            288699
+Nested Sampling ln(Z):               -110.715732
+Acceptance Rate:                        0.135835
+Replacements:                              39348
+Total Samples:                            289674
+Nested Sampling ln(Z):               -110.706947
+Acceptance Rate:                        0.135743
+Replacements:                              39398
+Total Samples:                            290240
+Nested Sampling ln(Z):               -110.698247
+Acceptance Rate:                        0.135527
+Replacements:                              39448
+Total Samples:                            291071
+Nested Sampling ln(Z):               -110.689613
+Acceptance Rate:                        0.135295
+Replacements:                              39498
+Total Samples:                            291939
+Nested Sampling ln(Z):               -110.681046
+Acceptance Rate:                        0.135030
+Replacements:                              39548
+Total Samples:                            292884
+Nested Sampling ln(Z):               -110.672570
+Acceptance Rate:                        0.134744
+Replacements:                              39598
+Total Samples:                            293876
+Nested Sampling ln(Z):               -110.664192
+Acceptance Rate:                        0.134426
+Replacements:                              39648
+Total Samples:                            294944
+Nested Sampling ln(Z):               -110.655921
+Acceptance Rate:                        0.134143
+Replacements:                              39698
+Total Samples:                            295938
+Nested Sampling ln(Z):               -110.647788
+Acceptance Rate:                        0.133857
+Replacements:                              39748
+Total Samples:                            296943
+Nested Sampling ln(Z):               -110.639785
+Acceptance Rate:                        0.133638
+Replacements:                              39798
+Total Samples:                            297805
+Nested Sampling ln(Z):               -110.631903
+Acceptance Rate:                        0.133420
+Replacements:                              39848
+Total Samples:                            298666
+Nested Sampling ln(Z):               -110.624121
+Acceptance Rate:                        0.133178
+Replacements:                              39898
+Total Samples:                            299585
+Nested Sampling ln(Z):               -110.616428
+Acceptance Rate:                        0.133019
+Replacements:                              39948
+Total Samples:                            300318
+Nested Sampling ln(Z):               -110.608830
+Acceptance Rate:                        0.132726
+Replacements:                              39998
+Total Samples:                            301357
+Nested Sampling ln(Z):               -110.601350
+Acceptance Rate:                        0.132462
+Replacements:                              40048
+Total Samples:                            302335
+Nested Sampling ln(Z):               -110.593932
+Acceptance Rate:                        0.132207
+Replacements:                              40098
+Total Samples:                            303297
+Nested Sampling ln(Z):               -110.586586
+Acceptance Rate:                        0.131999
+Replacements:                              40148
+Total Samples:                            304154
+Nested Sampling ln(Z):               -110.579339
+Acceptance Rate:                        0.131800
+Replacements:                              40198
+Total Samples:                            304993
+Nested Sampling ln(Z):               -110.572204
+Acceptance Rate:                        0.131516
+Replacements:                              40248
+Total Samples:                            306032
+Nested Sampling ln(Z):               -110.565164
+Acceptance Rate:                        0.131221
+Replacements:                              40298
+Total Samples:                            307100
+Nested Sampling ln(Z):               -110.558205
+Acceptance Rate:                        0.130927
+Replacements:                              40348
+Total Samples:                            308171
+Nested Sampling ln(Z):               -110.551343
+Acceptance Rate:                        0.130696
+Replacements:                              40398
+Total Samples:                            309098
+Nested Sampling ln(Z):               -110.544572
+Acceptance Rate:                        0.130525
+Replacements:                              40448
+Total Samples:                            309888
+Nested Sampling ln(Z):               -110.537872
+Acceptance Rate:                        0.130247
+Replacements:                              40498
+Total Samples:                            310932
+Nested Sampling ln(Z):               -110.531253
+Acceptance Rate:                        0.130115
+Replacements:                              40548
+Total Samples:                            311632
+Nested Sampling ln(Z):               -110.524721
+Acceptance Rate:                        0.129924
+Replacements:                              40598
+Total Samples:                            312476
+Nested Sampling ln(Z):               -110.518269
+Acceptance Rate:                        0.129681
+Replacements:                              40648
+Total Samples:                            313447
+Nested Sampling ln(Z):               -110.511905
+Acceptance Rate:                        0.129428
+Replacements:                              40698
+Total Samples:                            314444
+Nested Sampling ln(Z):               -110.505598
+Acceptance Rate:                        0.129174
+Replacements:                              40748
+Total Samples:                            315451
+Nested Sampling ln(Z):               -110.499376
+Acceptance Rate:                        0.128804
+Replacements:                              40798
+Total Samples:                            316746
+Nested Sampling ln(Z):               -110.493241
+Acceptance Rate:                        0.128601
+Replacements:                              40848
+Total Samples:                            317633
+Nested Sampling ln(Z):               -110.487173
+Acceptance Rate:                        0.128298
+Replacements:                              40898
+Total Samples:                            318773
+Nested Sampling ln(Z):               -110.481182
+Acceptance Rate:                        0.128057
+Replacements:                              40948
+Total Samples:                            319763
+Nested Sampling ln(Z):               -110.475264
+Acceptance Rate:                        0.127857
+Replacements:                              40998
+Total Samples:                            320654
+Nested Sampling ln(Z):               -110.469440
+Acceptance Rate:                        0.127588
+Replacements:                              41048
+Total Samples:                            321723
+Nested Sampling ln(Z):               -110.463692
+Acceptance Rate:                        0.127316
+Replacements:                              41098
+Total Samples:                            322802
+Nested Sampling ln(Z):               -110.457991
+Acceptance Rate:                        0.127076
+Replacements:                              41148
+Total Samples:                            323806
+Nested Sampling ln(Z):               -110.452371
+Acceptance Rate:                        0.126737
+Replacements:                              41198
+Total Samples:                            325066
+Nested Sampling ln(Z):               -110.446837
+Acceptance Rate:                        0.126435
+Replacements:                              41248
+Total Samples:                            326238
+Nested Sampling ln(Z):               -110.441387
+Acceptance Rate:                        0.126203
+Replacements:                              41298
+Total Samples:                            327234
+Nested Sampling ln(Z):               -110.436023
+Acceptance Rate:                        0.126013
+Replacements:                              41348
+Total Samples:                            328126
+Nested Sampling ln(Z):               -110.430736
+Acceptance Rate:                        0.125747
+Replacements:                              41398
+Total Samples:                            329216
+Nested Sampling ln(Z):               -110.425525
+Acceptance Rate:                        0.125607
+Replacements:                              41448
+Total Samples:                            329982
+Nested Sampling ln(Z):               -110.420383
+Acceptance Rate:                        0.125494
+Replacements:                              41498
+Total Samples:                            330678
+Nested Sampling ln(Z):               -110.415319
+Acceptance Rate:                        0.125327
+Replacements:                              41548
+Total Samples:                            331517
+Nested Sampling ln(Z):               -110.410322
+Acceptance Rate:                        0.125161
+Replacements:                              41598
+Total Samples:                            332355
+Nested Sampling ln(Z):               -110.405390
+Acceptance Rate:                        0.124905
+Replacements:                              41648
+Total Samples:                            333437
+Nested Sampling ln(Z):               -110.400524
+Acceptance Rate:                        0.124714
+Replacements:                              41698
+Total Samples:                            334349
+Nested Sampling ln(Z):               -110.395726
+Acceptance Rate:                        0.124492
+Replacements:                              41748
+Total Samples:                            335348
+Nested Sampling ln(Z):               -110.390997
+Acceptance Rate:                        0.124251
+Replacements:                              41798
+Total Samples:                            336399
+Nested Sampling ln(Z):               -110.386344
+Acceptance Rate:                        0.124053
+Replacements:                              41848
+Total Samples:                            337341
+Nested Sampling ln(Z):               -110.381752
+Acceptance Rate:                        0.123729
+Replacements:                              41898
+Total Samples:                            338628
+Nested Sampling ln(Z):               -110.377227
+Acceptance Rate:                        0.123473
+Replacements:                              41948
+Total Samples:                            339733
+Nested Sampling ln(Z):               -110.372781
+Acceptance Rate:                        0.123161
+Replacements:                              41998
+Total Samples:                            341001
+Nested Sampling ln(Z):               -110.368403
+Acceptance Rate:                        0.122888
+Replacements:                              42048
+Total Samples:                            342166
+Nested Sampling ln(Z):               -110.364078
+Acceptance Rate:                        0.122597
+Replacements:                              42098
+Total Samples:                            343384
+Nested Sampling ln(Z):               -110.359798
+Acceptance Rate:                        0.122345
+Replacements:                              42148
+Total Samples:                            344502
+Nested Sampling ln(Z):               -110.355588
+Acceptance Rate:                        0.122003
+Replacements:                              42198
+Total Samples:                            345876
+Nested Sampling ln(Z):               -110.351439
+Acceptance Rate:                        0.121749
+Replacements:                              42248
+Total Samples:                            347010
+Nested Sampling ln(Z):               -110.347360
+Acceptance Rate:                        0.121439
+Replacements:                              42298
+Total Samples:                            348307
+Nested Sampling ln(Z):               -110.343341
+Acceptance Rate:                        0.121250
+Replacements:                              42348
+Total Samples:                            349261
+Nested Sampling ln(Z):               -110.339379
+Acceptance Rate:                        0.121006
+Replacements:                              42398
+Total Samples:                            350379
+Nested Sampling ln(Z):               -110.335475
+Acceptance Rate:                        0.120795
+Replacements:                              42448
+Total Samples:                            351405
+Nested Sampling ln(Z):               -110.331626
+Acceptance Rate:                        0.120616
+Replacements:                              42498
+Total Samples:                            352342
+Nested Sampling ln(Z):               -110.327829
+Acceptance Rate:                        0.120303
+Replacements:                              42548
+Total Samples:                            353674
+Nested Sampling ln(Z):               -110.324096
+Acceptance Rate:                        0.120098
+Replacements:                              42598
+Total Samples:                            354694
+Nested Sampling ln(Z):               -110.320423
+Acceptance Rate:                        0.119799
+Replacements:                              42648
+Total Samples:                            355995
+Nested Sampling ln(Z):               -110.316801
+Acceptance Rate:                        0.119506
+Replacements:                              42698
+Total Samples:                            357287
+Nested Sampling ln(Z):               -110.313240
+Acceptance Rate:                        0.119207
+Replacements:                              42748
+Total Samples:                            358602
+Nested Sampling ln(Z):               -110.309732
+Acceptance Rate:                        0.118937
+Replacements:                              42798
+Total Samples:                            359838
+Nested Sampling ln(Z):               -110.306269
+Acceptance Rate:                        0.118676
+Replacements:                              42848
+Total Samples:                            361050
+Nested Sampling ln(Z):               -110.302864
+Acceptance Rate:                        0.118438
+Replacements:                              42898
+Total Samples:                            362197
+Nested Sampling ln(Z):               -110.299516
+Acceptance Rate:                        0.118295
+Replacements:                              42948
+Total Samples:                            363058
+Nested Sampling ln(Z):               -110.296223
+Acceptance Rate:                        0.118021
+Replacements:                              42998
+Total Samples:                            364325
+Nested Sampling ln(Z):               -110.292979
+Acceptance Rate:                        0.117793
+Replacements:                              43048
+Total Samples:                            365455
+Nested Sampling ln(Z):               -110.289792
+Acceptance Rate:                        0.117577
+Replacements:                              43098
+Total Samples:                            366551
+Nested Sampling ln(Z):               -110.286657
+Acceptance Rate:                        0.117392
+Replacements:                              43148
+Total Samples:                            367556
+Nested Sampling ln(Z):               -110.283571
+Acceptance Rate:                        0.117189
+Replacements:                              43198
+Total Samples:                            368619
+Nested Sampling ln(Z):               -110.280528
+Acceptance Rate:                        0.117004
+Replacements:                              43248
+Total Samples:                            369629
+Nested Sampling ln(Z):               -110.277528
+Acceptance Rate:                        0.116739
+Replacements:                              43298
+Total Samples:                            370896
+Nested Sampling ln(Z):               -110.274578
+Acceptance Rate:                        0.116472
+Replacements:                              43348
+Total Samples:                            372175
+Nested Sampling ln(Z):               -110.271676
+Acceptance Rate:                        0.116379
+Replacements:                              43362
+Total Samples:                            372593
+Nested Sampling ln(Z):               -110.270870
+ ln(ev)=  -110.11043873359382      +/-   8.7761211648094029E-002
+ Total Likelihood Evaluations:       372593
+ Sampling finished. Exiting MultiNest
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSKagauss32cores/pm_GRB211211A/.txt
+Best fit parameters: {'log10_Xlan': -1.3998171786792013, 'log10_mej': -1.4798140212254811, 'log10_vej': -0.6287165724956958, 'inclination_EM': 0.020993810821876, 'luminosity_distance': 483.9242713481587, 'log10_E0': 51.13372560099137, 'thetaCore': 0.0170688847760766, 'thetaWing': 0.0756980701235503, 'log10_n0': -5.252226505969458, 'p': 2.54474377476768, 'log10_epsilon_e': -0.1596577159892653, 'log10_epsilon_B': -0.4569877231147163, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -90.79210454825188, 'log_prior': -13.774761744026868}
+Best fit index: 13868
+Best fit parameters: {'log10_Xlan': -1.3998171786792013, 'log10_mej': -1.4798140212254811, 'log10_vej': -0.6287165724956958, 'inclination_EM': 0.020993810821876, 'luminosity_distance': 483.9242713481587, 'log10_E0': 51.13372560099137, 'thetaCore': 0.0170688847760766, 'thetaWing': 0.0756980701235503, 'log10_n0': -5.252226505969458, 'p': 2.54474377476768, 'log10_epsilon_e': -0.1596577159892653, 'log10_epsilon_B': -0.4569877231147163, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -90.79210454825188, 'log_prior': -13.774761744026868}
+Best fit index: 13868
+Best fit parameters: {'log10_Xlan': -1.3998171786792013, 'log10_mej': -1.4798140212254811, 'log10_vej': -0.6287165724956958, 'inclination_EM': 0.020993810821876, 'luminosity_distance': 483.9242713481587, 'log10_E0': 51.13372560099137, 'thetaCore': 0.0170688847760766, 'thetaWing': 0.0756980701235503, 'log10_n0': -5.252226505969458, 'p': 2.54474377476768, 'log10_epsilon_e': -0.1596577159892653, 'log10_epsilon_B': -0.4569877231147163, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -90.79210454825188, 'log_prior': -13.774761744026868}
+Best fit index: 13868
+Best fit parameters: {'log10_Xlan': -1.3998171786792013, 'log10_mej': -1.4798140212254811, 'log10_vej': -0.6287165724956958, 'inclination_EM': 0.020993810821876, 'luminosity_distance': 483.9242713481587, 'log10_E0': 51.13372560099137, 'thetaCore': 0.0170688847760766, 'thetaWing': 0.0756980701235503, 'log10_n0': -5.252226505969458, 'p': 2.54474377476768, 'log10_epsilon_e': -0.1596577159892653, 'log10_epsilon_B': -0.4569877231147163, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -90.79210454825188, 'log_prior': -13.774761744026868}
+Best fit index: 13868
+Best fit parameters: {'log10_Xlan': -1.3998171786792013, 'log10_mej': -1.4798140212254811, 'log10_vej': -0.6287165724956958, 'inclination_EM': 0.020993810821876, 'luminosity_distance': 483.9242713481587, 'log10_E0': 51.13372560099137, 'thetaCore': 0.0170688847760766, 'thetaWing': 0.0756980701235503, 'log10_n0': -5.252226505969458, 'p': 2.54474377476768, 'log10_epsilon_e': -0.1596577159892653, 'log10_epsilon_B': -0.4569877231147163, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -90.79210454825188, 'log_prior': -13.774761744026868}
+Best fit index: 13868
