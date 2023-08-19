@@ -1,0 +1,1177 @@
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Creating light curve model for inference
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Running with filters ['uvot__v', 'uvot__b', 'uvot__u', 'uvot__uvw1', 'uvot__uvm2', 'uvot__uvw2', 'uvot__white', 'bessellb', 'bessellux', 'ps1__g', 'bessellv', 'ps1__r', 'bessellr', 'ps1__i', 'besselli', 'ps1__z', '2massh', '2massj', '2massks', 'X-ray-1keV', 'radio-6GHz']
+Running with combination of multiple light curve models
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Loaded filter uvot__v
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Could not retrieve latest DOI, models won't be downloaded or updated. Will try using existing list or local files available.
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__v
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__u
+Loaded filter uvot__uvm2
+Loaded filter uvot__v
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__v
+Loaded filter uvot__uvm2
+Loaded filter uvot__b
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__uvm2
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__v
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__b
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__u
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__u
+Loaded filter uvot__white
+Loaded filter uvot__uvw1
+Loaded filter uvot__u
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter uvot__b
+Loaded filter uvot__uvm2
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter uvot__u
+Loaded filter uvot__white
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter uvot__u
+Loaded filter uvot__white
+Loaded filter uvot__b
+Loaded filter uvot__white
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__u
+Loaded filter uvot__uvm2
+Loaded filter uvot__b
+Loaded filter uvot__uvm2
+Loaded filter uvot__u
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__uvw1
+Loaded filter uvot__b
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter uvot__u
+Loaded filter uvot__uvm2
+Loaded filter bessellb
+Loaded filter uvot__uvw1
+Loaded filter uvot__white
+Loaded filter uvot__u
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter uvot__v
+Loaded filter uvot__v
+Loaded filter uvot__uvw2
+Loaded filter uvot__v
+Loaded filter bessellb
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw1
+Loaded filter uvot__uvw2
+Loaded filter uvot__b
+Loaded filter uvot__b
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__b
+Loaded filter uvot__u
+Loaded filter uvot__u
+Loaded filter uvot__white
+Loaded filter bessellb
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter bessellb
+Loaded filter uvot__u
+Loaded filter uvot__uvw1
+Loaded filter uvot__white
+Loaded filter uvot__uvw1
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter uvot__uvw1
+Loaded filter bessellb
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvm2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__uvw2
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter uvot__white
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellb
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter bessellux
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter ps1__g
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter bessellv
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter ps1__r
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter bessellr
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter ps1__i
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter besselli
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter ps1__z
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massh
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massj
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Loaded filter 2massks
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter X-ray-1keV
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Could not find model file for filter radio-6GHz
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+Running with the following additional sampler_kwargs:
+{}
+ *****************************************************
+ MultiNest v3.10
+ Copyright Farhan Feroz & Mike Hobson
+ Release Jul 2015
+
+ no. of live points = 2048
+ dimensionality =   12
+ resuming from previous job
+ *****************************************************
+ Starting MultiNest
+Acceptance Rate:                        0.127722
+Replacements:                              44498
+Total Samples:                            348397
+Nested Sampling ln(Z):               -162.155270
+Acceptance Rate:                        0.127567
+Replacements:                              44548
+Total Samples:                            349212
+Nested Sampling ln(Z):               -162.151681
+Acceptance Rate:                        0.127412
+Replacements:                              44598
+Total Samples:                            350031
+Nested Sampling ln(Z):               -162.148137
+Acceptance Rate:                        0.127202
+Replacements:                              44648
+Total Samples:                            351002
+Nested Sampling ln(Z):               -162.144641
+Acceptance Rate:                        0.127058
+Replacements:                              44698
+Total Samples:                            351792
+Nested Sampling ln(Z):               -162.141187
+Acceptance Rate:                        0.126970
+Replacements:                              44748
+Total Samples:                            352430
+Nested Sampling ln(Z):               -162.137770
+Acceptance Rate:                        0.126726
+Replacements:                              44798
+Total Samples:                            353502
+Nested Sampling ln(Z):               -162.134399
+Acceptance Rate:                        0.126623
+Replacements:                              44848
+Total Samples:                            354184
+Nested Sampling ln(Z):               -162.131062
+Acceptance Rate:                        0.126454
+Replacements:                              44898
+Total Samples:                            355055
+Nested Sampling ln(Z):               -162.127755
+Acceptance Rate:                        0.126273
+Replacements:                              44948
+Total Samples:                            355958
+Nested Sampling ln(Z):               -162.124487
+Acceptance Rate:                        0.126106
+Replacements:                              44998
+Total Samples:                            356828
+Nested Sampling ln(Z):               -162.121255
+Acceptance Rate:                        0.125881
+Replacements:                              45048
+Total Samples:                            357861
+Nested Sampling ln(Z):               -162.118060
+Acceptance Rate:                        0.125713
+Replacements:                              45098
+Total Samples:                            358738
+Nested Sampling ln(Z):               -162.114899
+Acceptance Rate:                        0.125526
+Replacements:                              45148
+Total Samples:                            359670
+Nested Sampling ln(Z):               -162.111778
+Acceptance Rate:                        0.125384
+Replacements:                              45198
+Total Samples:                            360478
+Nested Sampling ln(Z):               -162.108690
+Acceptance Rate:                        0.125208
+Replacements:                              45248
+Total Samples:                            361382
+Nested Sampling ln(Z):               -162.105639
+Acceptance Rate:                        0.125101
+Replacements:                              45298
+Total Samples:                            362091
+Nested Sampling ln(Z):               -162.102616
+Acceptance Rate:                        0.124952
+Replacements:                              45348
+Total Samples:                            362923
+Nested Sampling ln(Z):               -162.099630
+Acceptance Rate:                        0.124753
+Replacements:                              45398
+Total Samples:                            363902
+Nested Sampling ln(Z):               -162.096677
+Acceptance Rate:                        0.124651
+Replacements:                              45448
+Total Samples:                            364602
+Nested Sampling ln(Z):               -162.093764
+Acceptance Rate:                        0.124405
+Replacements:                              45498
+Total Samples:                            365724
+Nested Sampling ln(Z):               -162.090893
+Acceptance Rate:                        0.124204
+Replacements:                              45548
+Total Samples:                            366719
+Nested Sampling ln(Z):               -162.088060
+Acceptance Rate:                        0.124027
+Replacements:                              45598
+Total Samples:                            367645
+Nested Sampling ln(Z):               -162.085268
+Acceptance Rate:                        0.123890
+Replacements:                              45648
+Total Samples:                            368456
+Nested Sampling ln(Z):               -162.082513
+Acceptance Rate:                        0.123763
+Replacements:                              45698
+Total Samples:                            369238
+Nested Sampling ln(Z):               -162.079788
+Acceptance Rate:                        0.123604
+Replacements:                              45748
+Total Samples:                            370116
+Nested Sampling ln(Z):               -162.077095
+Acceptance Rate:                        0.123406
+Replacements:                              45798
+Total Samples:                            371117
+Nested Sampling ln(Z):               -162.074437
+Acceptance Rate:                        0.123260
+Replacements:                              45848
+Total Samples:                            371963
+Nested Sampling ln(Z):               -162.071812
+Acceptance Rate:                        0.123063
+Replacements:                              45898
+Total Samples:                            372962
+Nested Sampling ln(Z):               -162.069217
+Acceptance Rate:                        0.122849
+Replacements:                              45948
+Total Samples:                            374019
+Nested Sampling ln(Z):               -162.066650
+Acceptance Rate:                        0.122780
+Replacements:                              45998
+Total Samples:                            374637
+Nested Sampling ln(Z):               -162.064114
+Acceptance Rate:                        0.122575
+Replacements:                              46048
+Total Samples:                            375673
+Nested Sampling ln(Z):               -162.061614
+Acceptance Rate:                        0.122441
+Replacements:                              46098
+Total Samples:                            376493
+Nested Sampling ln(Z):               -162.059145
+Acceptance Rate:                        0.122262
+Replacements:                              46148
+Total Samples:                            377453
+Nested Sampling ln(Z):               -162.056711
+Acceptance Rate:                        0.122054
+Replacements:                              46198
+Total Samples:                            378506
+Nested Sampling ln(Z):               -162.054302
+Acceptance Rate:                        0.121924
+Replacements:                              46248
+Total Samples:                            379318
+Nested Sampling ln(Z):               -162.051926
+Acceptance Rate:                        0.121793
+Replacements:                              46298
+Total Samples:                            380137
+Nested Sampling ln(Z):               -162.049587
+Acceptance Rate:                        0.121619
+Replacements:                              46348
+Total Samples:                            381093
+Nested Sampling ln(Z):               -162.047282
+Acceptance Rate:                        0.121390
+Replacements:                              46398
+Total Samples:                            382223
+Nested Sampling ln(Z):               -162.045007
+Acceptance Rate:                        0.121204
+Replacements:                              46448
+Total Samples:                            383221
+Nested Sampling ln(Z):               -162.042753
+Acceptance Rate:                        0.120993
+Replacements:                              46498
+Total Samples:                            384304
+Nested Sampling ln(Z):               -162.040529
+Acceptance Rate:                        0.120768
+Replacements:                              46548
+Total Samples:                            385434
+Nested Sampling ln(Z):               -162.038334
+Acceptance Rate:                        0.120534
+Replacements:                              46598
+Total Samples:                            386596
+Nested Sampling ln(Z):               -162.036171
+Acceptance Rate:                        0.120304
+Replacements:                              46648
+Total Samples:                            387751
+Nested Sampling ln(Z):               -162.034037
+Acceptance Rate:                        0.120139
+Replacements:                              46698
+Total Samples:                            388699
+Nested Sampling ln(Z):               -162.031931
+Acceptance Rate:                        0.120006
+Replacements:                              46748
+Total Samples:                            389548
+Nested Sampling ln(Z):               -162.029848
+Acceptance Rate:                        0.119807
+Replacements:                              46798
+Total Samples:                            390610
+Nested Sampling ln(Z):               -162.027793
+Acceptance Rate:                        0.119621
+Replacements:                              46848
+Total Samples:                            391637
+Nested Sampling ln(Z):               -162.025767
+Acceptance Rate:                        0.119406
+Replacements:                              46898
+Total Samples:                            392762
+Nested Sampling ln(Z):               -162.023772
+Acceptance Rate:                        0.119149
+Replacements:                              46948
+Total Samples:                            394026
+Nested Sampling ln(Z):               -162.021800
+Acceptance Rate:                        0.118982
+Replacements:                              46998
+Total Samples:                            395000
+Nested Sampling ln(Z):               -162.019849
+Acceptance Rate:                        0.118853
+Replacements:                              47048
+Total Samples:                            395852
+Nested Sampling ln(Z):               -162.017927
+Acceptance Rate:                        0.118701
+Replacements:                              47098
+Total Samples:                            396777
+Nested Sampling ln(Z):               -162.016034
+Acceptance Rate:                        0.118505
+Replacements:                              47148
+Total Samples:                            397856
+Nested Sampling ln(Z):               -162.014164
+Acceptance Rate:                        0.118391
+Replacements:                              47198
+Total Samples:                            398662
+Nested Sampling ln(Z):               -162.012312
+Acceptance Rate:                        0.118219
+Replacements:                              47248
+Total Samples:                            399665
+Nested Sampling ln(Z):               -162.010486
+Acceptance Rate:                        0.118087
+Replacements:                              47298
+Total Samples:                            400534
+Nested Sampling ln(Z):               -162.008684
+Acceptance Rate:                        0.117929
+Replacements:                              47348
+Total Samples:                            401496
+Nested Sampling ln(Z):               -162.006905
+Acceptance Rate:                        0.117801
+Replacements:                              47398
+Total Samples:                            402355
+Nested Sampling ln(Z):               -162.005153
+Acceptance Rate:                        0.117631
+Replacements:                              47448
+Total Samples:                            403362
+Nested Sampling ln(Z):               -162.003425
+Acceptance Rate:                        0.117472
+Replacements:                              47498
+Total Samples:                            404335
+Nested Sampling ln(Z):               -162.001723
+Acceptance Rate:                        0.117344
+Replacements:                              47548
+Total Samples:                            405201
+Nested Sampling ln(Z):               -162.000046
+Acceptance Rate:                        0.117128
+Replacements:                              47598
+Total Samples:                            406376
+Nested Sampling ln(Z):               -161.998395
+Acceptance Rate:                        0.116930
+Replacements:                              47648
+Total Samples:                            407492
+Nested Sampling ln(Z):               -161.996769
+Acceptance Rate:                        0.116779
+Replacements:                              47698
+Total Samples:                            408448
+Nested Sampling ln(Z):               -161.995163
+Acceptance Rate:                        0.116636
+Replacements:                              47748
+Total Samples:                            409377
+Nested Sampling ln(Z):               -161.993580
+Acceptance Rate:                        0.116530
+Replacements:                              47798
+Total Samples:                            410178
+Nested Sampling ln(Z):               -161.992019
+Acceptance Rate:                        0.116503
+Replacements:                              47802
+Total Samples:                            410308
+Nested Sampling ln(Z):               -161.991895
+ ln(ev)=  -161.89553822506772      +/-   9.0553927181498572E-002
+ Total Likelihood Evaluations:       410308
+ Sampling finished. Exiting MultiNest
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+  analysing data from outdirBNSBugauss32cores/pm_GRB211211A/.txt
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
+Best fit parameters: {'KNphi': 71.35742942099722, 'inclination_EM': 0.0368550649833621, 'log10_mej_dyn': -1.8567748258133467, 'log10_mej_wind': -1.936595316277656, 'luminosity_distance': 404.0766182606993, 'log10_E0': 50.44150609272808, 'thetaCore': 0.0278311118961409, 'thetaWing': 0.0941129589346196, 'log10_n0': -4.130146431930772, 'p': 2.4595169423011094, 'log10_epsilon_e': -0.0473839870799484, 'log10_epsilon_B': -0.3427084163751139, 'KNtimeshift': 0.0, 'Ebv': 0.0, 'log_likelihood': -140.34544068927096, 'log_prior': -17.847419432047396}
+Best fit index: 17082
